@@ -1344,6 +1344,7 @@
 
 ## haskell 
 
+- [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
 - [wireapp/wire-server](https://github.com/wireapp/wire-server) - 🇪🇺 Wire back-end services
 - [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes
 - [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official (but not yet stable) formatter for Nix code
@@ -1909,6 +1910,7 @@
 
 ## markdown 
 
+- [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
 - [preservim/vim-markdown](https://github.com/preservim/vim-markdown) - Markdown Vim Mode
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [danpros/htmly](https://github.com/danpros/htmly) - Simple and fast databaseless PHP blogging platform, and Flat-File CMS
@@ -2166,6 +2168,9 @@
 
 ## others 
 
+- [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
+- [eblechschmidt/nixhome](https://github.com/eblechschmidt/nixhome) - A homelab homepage written in go
+- [Koenkk/Z-Stack-firmware](https://github.com/Koenkk/Z-Stack-firmware) - Compilation instructions and hex files for Z-Stack firmwares
 - [gmodena/nix-flatpak](https://github.com/gmodena/nix-flatpak) - Install flatpaks declaratively
 - [brianshea2/addr.tools](https://github.com/brianshea2/addr.tools) - possibly useful tools for the Internet (including dnscheck.tools and myaddr.tools)
 - [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud) - This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services.
@@ -2228,7 +2233,7 @@
 - [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure
 - [nix-community/raspberry-pi-nix](https://github.com/nix-community/raspberry-pi-nix) - NixOS modules to aid in configuring NixOS for raspberry pi products
 - [rspeer/wordfreq](https://github.com/rspeer/wordfreq) - Access a database of word frequencies, in various natural languages.
-- [gnmyt/myspeed](https://github.com/gnmyt/myspeed) - A speed test analysis software that shows your internet speed for up to 30 days
+- [gnmyt/MySpeed](https://github.com/gnmyt/MySpeed) - A speed test analysis software that shows your internet speed for up to 30 days
 - [Dreamacro/maxmind-geoip](https://github.com/Dreamacro/maxmind-geoip) - 
 - [wyot1/GeoLite2-Unwalled](https://github.com/wyot1/GeoLite2-Unwalled) - Fresh GeoLite2 databases, for everyone.
 - [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
@@ -3225,7 +3230,6 @@
 - [andyet/ConsoleDummy.js](https://github.com/andyet/ConsoleDummy.js) - Super lightweight solution that lets you leave `console` statements in your JS.
 - [ushahidi/Sweeper_0.3.2](https://github.com/ushahidi/Sweeper_0.3.2) - [DEPRECATED] Intelligent media curation tool with filters for managing real-time feeds of information
 - [syntaxhighlighter/syntaxhighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter) - SyntaxHighlighter is a fully functional self-contained code syntax highlighter developed in JavaScript.
-- [h5bp/mobile-boilerplate](https://github.com/h5bp/mobile-boilerplate) - DEPRECATED - A front-end template that helps you build fast, modern mobile web apps.
 - [flourishlib/flourish-demo-site](https://github.com/flourishlib/flourish-demo-site) - This is a simple CMS-like application written using Flourish
 - [zmack/jquery-expandable](https://github.com/zmack/jquery-expandable) - A jQuery plugin that auto-expands textareas to fit the contents as a user types.
 - [adriel/cindex](https://github.com/adriel/cindex) - List files and folders with size and easy copy/paste of bulk files.
@@ -4014,6 +4018,7 @@
 
 ## terminal 
 
+- [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
 - [gnome-terminator/terminator](https://github.com/gnome-terminator/terminator) - multiple GNOME terminals in one window
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [gnunn1/tilix](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3
