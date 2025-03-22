@@ -80,6 +80,7 @@
 
 ## Astro 
 
+- [NixOS/nixos-homepage](https://github.com/NixOS/nixos-homepage) - Sources for nixos.org
 - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 
 ## Batchfile 
@@ -301,6 +302,7 @@
 
 ## Go 
 
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers
 - [eblechschmidt/nixhome](https://github.com/eblechschmidt/nixhome) - A homelab homepage written in go
 - [brianshea2/addr.tools](https://github.com/brianshea2/addr.tools) - possibly useful tools for the Internet (including dnscheck.tools and myaddr.tools)
 - [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud) - This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services.
@@ -1302,6 +1304,8 @@
 
 ## PHP 
 
+- [pfefferle/wordpress-rss-club](https://github.com/pfefferle/wordpress-rss-club) - 1st rule of RSS Club is “Don’t Talk About RSS Club”.
+- [janboddez/indieblocks](https://github.com/janboddez/indieblocks) - Use blocks, and, optionally, "short-form" post types to more easily "IndieWebify" your WordPress site.
 - [Qloapps/QloApps](https://github.com/Qloapps/QloApps) - QloApps is a Free and Open-source hotel management and reservation system to take a hotel business online. QloApps offers a Property Management System (PMS), a Booking Engine, and an attractive Hotel 
 - [bPlugins/count-post-reaction](https://github.com/bPlugins/count-post-reaction) - 
 - [JayBizzle/Crawler-Detect](https://github.com/JayBizzle/Crawler-Detect) - 🕷 CrawlerDetect is a PHP class for detecting bots/crawlers/spiders via the user agent
@@ -1485,7 +1489,7 @@
 - [bbalet/jorani](https://github.com/bbalet/jorani) - Leave and Overtime Management System
 - [rmbinder/Mitgliedsbeitrag](https://github.com/rmbinder/Mitgliedsbeitrag) - Plugin Mitgliedsbeitrag für die Online-Mitgliederverwaltung Admidio
 - [kanboard/kanboard](https://github.com/kanboard/kanboard) - Kanban project management software
-- [maxpozdeev/mytinytodo](https://github.com/maxpozdeev/mytinytodo) - Todo list script
+- [maxpozdeev/mytinytodo](https://github.com/maxpozdeev/mytinytodo) - Your tiny todo list
 - [WhichBrowser/Parser-PHP](https://github.com/WhichBrowser/Parser-PHP) - Browser sniffing gone too far — A useragent parser library for PHP
 - [dimadin/disable-google-fonts](https://github.com/dimadin/disable-google-fonts) - Disable enqueuing of Open Sans and other fonts used by WordPress from Google.
 - [ryanhellyer/disable-emojis](https://github.com/ryanhellyer/disable-emojis) - disable-emojis
@@ -1856,6 +1860,8 @@
 
 ## Python 
 
+- [zhuozhiyongde/gaze-stars](https://github.com/zhuozhiyongde/gaze-stars) - 
+- [mipmip/hm-ricing-mode](https://github.com/mipmip/hm-ricing-mode) - Ricing mode utility for Home Manager
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [kappapiana/anonymize](https://github.com/kappapiana/anonymize) - A script to change authorship to ODT and DOCX comments, redlines and whatnot.
 - [gnome-terminator/terminator](https://github.com/gnome-terminator/terminator) - multiple GNOME terminals in one window
