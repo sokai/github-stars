@@ -139,6 +139,7 @@
 - [nestjs](#nestjs)
 - [nextjs](#nextjs)
 - [nlp](#nlp)
+- [no-code](#no-code)
 - [node](#node)
 - [nodejs](#nodejs)
 - [nosql](#nosql)
@@ -2072,6 +2073,11 @@
 
 - [RichardLitt/low-resource-languages](https://github.com/RichardLitt/low-resource-languages) - Resources for conservation, development, and documentation of low resource (human) languages.
 
+## no-code 
+
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
+- [eclipse-streamsheets/streamsheets](https://github.com/eclipse-streamsheets/streamsheets) - An open-source tool for processing stream data using a spreadsheet-like interface.
+
 ## node 
 
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
@@ -2168,6 +2174,10 @@
 
 ## others 
 
+- [janboddez/indieblocks](https://github.com/janboddez/indieblocks) - Use blocks, and, optionally, "short-form" post types to more easily "IndieWebify" your WordPress site.
+- [zhuozhiyongde/gaze-stars](https://github.com/zhuozhiyongde/gaze-stars) - 
+- [NixOS/nixos-homepage](https://github.com/NixOS/nixos-homepage) - Sources for nixos.org
+- [mipmip/hm-ricing-mode](https://github.com/mipmip/hm-ricing-mode) - Ricing mode utility for Home Manager
 - [didactiklabs/nixbook](https://github.com/didactiklabs/nixbook) - Laptop NixOS Configuration
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [eblechschmidt/nixhome](https://github.com/eblechschmidt/nixhome) - A homelab homepage written in go
@@ -2641,7 +2651,7 @@
 - [bbalet/jorani](https://github.com/bbalet/jorani) - Leave and Overtime Management System
 - [dnsviz/dnsviz](https://github.com/dnsviz/dnsviz) - 
 - [rmbinder/Mitgliedsbeitrag](https://github.com/rmbinder/Mitgliedsbeitrag) - Plugin Mitgliedsbeitrag für die Online-Mitgliederverwaltung Admidio
-- [maxpozdeev/mytinytodo](https://github.com/maxpozdeev/mytinytodo) - Todo list script
+- [maxpozdeev/mytinytodo](https://github.com/maxpozdeev/mytinytodo) - Your tiny todo list
 - [RealRaven2000/QuickFolders](https://github.com/RealRaven2000/QuickFolders) - Thunderbird Add-on: QuickFolders
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [wangvisual/expression-search](https://github.com/wangvisual/expression-search) - Expression Search is a Thunderbird addon that add search features like Gmail
@@ -3793,6 +3803,7 @@
 
 ## security 
 
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers
 - [tiiuae/sbomnix](https://github.com/tiiuae/sbomnix) - A suite of utilities to help with software supply chain challenges on nix targets
 - [ory/hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless
 - [ImranR98/apps.obtainium.imranr.dev](https://github.com/ImranR98/apps.obtainium.imranr.dev) - Collection of suggested apps for Obtainium.
@@ -4236,6 +4247,7 @@
 
 ## wordpress 
 
+- [pfefferle/wordpress-rss-club](https://github.com/pfefferle/wordpress-rss-club) - 1st rule of RSS Club is “Don’t Talk About RSS Club”.
 - [johnbillion/wp_mail](https://github.com/johnbillion/wp_mail) - Documentation for all the situations where WordPress core sends an email, how and when they happen, and how to filter or disable each one.
 - [Automattic/wordpress-activitypub](https://github.com/Automattic/wordpress-activitypub) - ActivityPub for WordPress
 - [bonny/WordPress-Simple-History](https://github.com/bonny/WordPress-Simple-History) - 🔍🕵️‍♀️ WordPress audit log that track user changes in WordPress admin using a nice activity feed.
