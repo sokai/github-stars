@@ -740,7 +740,7 @@
 - [gbv/picatextarea](https://github.com/gbv/picatextarea) - HTML editor interface with syntax highlighting for PICA+ data
 - [movim/movim](https://github.com/movim/movim) - Movim - Decentralized social platform
 - [terkelg/facon](https://github.com/terkelg/facon) - Tiny utility (365B) to create DOM elements with manner.
-- [conversejs/converse.js](https://github.com/conversejs/converse.js) - Web-based XMPP/Jabber chat client written in JavaScript
+- [conversejs/converse.js](https://github.com/conversejs/converse.js) - Web-based XMPP/Jabber chat written in JavaScript
 - [signalapp/libsignal-protocol-javascript](https://github.com/signalapp/libsignal-protocol-javascript) - This library is no longer maintained. libsignal-protocol-javascript was an implementation of the Signal Protocol, written in JavaScript. It has been replaced by libsignal-client’s typesafe TypeScript 
 - [larswolter/ultisite](https://github.com/larswolter/ultisite) - Team Management Website for Ultimate Frisbee Teams
 - [GSConnect/gnome-shell-extension-gsconnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect) - KDE Connect implementation for GNOME
