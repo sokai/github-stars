@@ -544,7 +544,7 @@
 - [WebCuratorTool/webcurator-v2-legacy](https://github.com/WebCuratorTool/webcurator-v2-legacy) - The Web Curator Tool is a tool for managing the selective web harvesting process. (moved from SourceForge). https://webcurator.slack.com https://webcuratortool.readthedocs.io
 - [wallabag/android-app](https://github.com/wallabag/android-app) - Android application to read your articles saved in your wallabag. You can also easily add new articles.
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
-- [gokulswam/PdfViewer](https://github.com/gokulswam/PdfViewer) - A simple Pdf document viewer 💼
+- [javacafe01/PdfViewer](https://github.com/javacafe01/PdfViewer) - A simple Pdf document viewer 💼
 - [jverein/jverein](https://github.com/jverein/jverein) - JVerein - Open Source Vereinsverwaltung
 - [DSpace-Labs/SAFBuilder](https://github.com/DSpace-Labs/SAFBuilder) - Builds a Simple Archive Format package from files and a spreadsheet
 - [apilayer/restcountries](https://github.com/apilayer/restcountries) - Get information about countries via a RESTful API
