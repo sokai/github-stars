@@ -1862,6 +1862,7 @@
 
 ## Python 
 
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
 - [zhuozhiyongde/gaze-stars](https://github.com/zhuozhiyongde/gaze-stars) - 
 - [mipmip/hm-ricing-mode](https://github.com/mipmip/hm-ricing-mode) - Ricing mode utility for Home Manager
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
