@@ -2268,7 +2268,7 @@
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
 - [kevle1/windows-telemetry-blocklist](https://github.com/kevle1/windows-telemetry-blocklist) - Blocks outgoing Windows telemetry, compatible with Pi-Hole.
 - [linuxhw/DMI](https://github.com/linuxhw/DMI) - Collect dmidecode reports and find most popular CPU, RAM and battery
-- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video). Sponsored by Synergy.
+- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 - [NixOS/teams-collaboration](https://github.com/NixOS/teams-collaboration) - 
 - [Lyndeno/apple-fonts.nix](https://github.com/Lyndeno/apple-fonts.nix) - Nix flake to easily install Apple fonts from their website.
 - [nickel-lang/organist](https://github.com/nickel-lang/organist) - Control all your tooling from a single console
