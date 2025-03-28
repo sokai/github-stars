@@ -197,6 +197,7 @@
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [testing](#testing)
+- [text-to-speech](#text-to-speech)
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
@@ -2275,7 +2276,6 @@
 - [SaumonNet/proxmox-nixos](https://github.com/SaumonNet/proxmox-nixos) - The Proxmox Hypervisor, on NixOS [maintainers=@camillemndn @julienmalka]
 - [danielyrovas/linklater](https://github.com/danielyrovas/linklater) - An unofficial Android client for LinkDing
 - [thelegy/nixos-nftables-firewall](https://github.com/thelegy/nixos-nftables-firewall) - A zone based firewall built ontop of nftables for nixos
-- [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [NixOS/nix-constitutional-assembly](https://github.com/NixOS/nix-constitutional-assembly) - Home of the Nix Constitutional Assembly, there to establish a community-based governance
 - [germanztz/gnome-shell-extension-rclone-manager](https://github.com/germanztz/gnome-shell-extension-rclone-manager) - Is like Dropbox sync client but for more than 30 services, adds an indicator to the top panel so you can manage the rclone profiles configured in your system, perform operations such as mount as remot
 - [dustinkirkland/hollywood](https://github.com/dustinkirkland/hollywood) - 
@@ -4066,6 +4066,10 @@
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 - [Codeception/Codeception](https://github.com/Codeception/Codeception) - Full-stack testing PHP framework
+
+## text-to-speech 
+
+- [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 
 ## twitter 
 
