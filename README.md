@@ -1864,6 +1864,7 @@
 
 ## Python 
 
+- [thunderbird/appointment](https://github.com/thunderbird/appointment) - Invite others to grab times on your calendar. Choose a date. Make appointments as easy as it gets.
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
 - [zhuozhiyongde/gaze-stars](https://github.com/zhuozhiyongde/gaze-stars) - 
 - [mipmip/hm-ricing-mode](https://github.com/mipmip/hm-ricing-mode) - Ricing mode utility for Home Manager
@@ -2271,6 +2272,7 @@
 
 ## TypeScript 
 
+- [thunderbird/send-suite](https://github.com/thunderbird/send-suite) - Send and share large files effortlessly with Thunderbird Send.
 - [defnull/fediwall](https://github.com/defnull/fediwall) - Social media wall for the Fediverse
 - [sozialhelden/a11yjson](https://github.com/sozialhelden/a11yjson) - A11yJSON: A standard to describe the accessibility of the physical world.
 - [simPod/GrafanaJsonDatasource](https://github.com/simPod/GrafanaJsonDatasource) - Grafana datasource to load JSON data over your arbitrary HTTP backend
