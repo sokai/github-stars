@@ -1084,6 +1084,7 @@
 
 ## Nix 
 
+- [mrnossiom/dotfiles](https://github.com/mrnossiom/dotfiles) - Nix files that govern my computer (and home-server) software
 - [imincik/containerfile-nix](https://github.com/imincik/containerfile-nix) - Build Dockerfile / Containerfile with Nix
 - [didactiklabs/nixbook](https://github.com/didactiklabs/nixbook) - Laptop NixOS Configuration
 - [gmodena/nix-flatpak](https://github.com/gmodena/nix-flatpak) - Install flatpaks declaratively
