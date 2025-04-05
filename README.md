@@ -1084,6 +1084,7 @@
 
 ## Nix 
 
+- [imincik/containerfile-nix](https://github.com/imincik/containerfile-nix) - Build Dockerfile / Containerfile with Nix
 - [didactiklabs/nixbook](https://github.com/didactiklabs/nixbook) - Laptop NixOS Configuration
 - [gmodena/nix-flatpak](https://github.com/gmodena/nix-flatpak) - Install flatpaks declaratively
 - [aciceri/agenix-shell](https://github.com/aciceri/agenix-shell) - 
