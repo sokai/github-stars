@@ -2194,6 +2194,8 @@
 
 ## others 
 
+- [micaplush/x](https://github.com/micaplush/x) - Monorepo for most of the stuff I'm doing now (sanitized version for publishing)
+- [nix-community/nixos-avf](https://github.com/nix-community/nixos-avf) - NixOS for Android Terminal (Android Virtualization Framework) [maintainers=@mkg20001]
 - [fenrus75/powertop](https://github.com/fenrus75/powertop) - The Linux PowerTOP tool  -- please post patches to the mailing list instead of using github pull requests
 - [mrnossiom/dotfiles](https://github.com/mrnossiom/dotfiles) - Nix files that govern my computer and server software
 - [thunderbird/appointment](https://github.com/thunderbird/appointment) - Invite others to grab times on your calendar. Choose a date. Make appointments as easy as it gets.
