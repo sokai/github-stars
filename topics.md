@@ -2729,7 +2729,7 @@
 - [kevupton/auto-swagger-ui](https://github.com/kevupton/auto-swagger-ui) - 
 - [zircote/swagger-php](https://github.com/zircote/swagger-php) - A php swagger annotation and parsing library
 - [phpspec/prophecy](https://github.com/phpspec/prophecy) - Highly opinionated mocking framework for PHP 5.3+
-- [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
+- [grokability/snipe-it](https://github.com/grokability/snipe-it) - A free open source IT asset/license management system
 - [WP-API/client-php](https://github.com/WP-API/client-php) - Reference client library for the WP API
 - [mdosch/urlbot](https://github.com/mdosch/urlbot) - XMPP bot
 - [askmrsinh/touchpad-indicator](https://github.com/askmrsinh/touchpad-indicator) - Touchpad management GNOME Shell Extension.
