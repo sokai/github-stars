@@ -409,6 +409,7 @@
 - [picocss/examples](https://github.com/picocss/examples) - Minimalist templates to discover Pico in action
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
 - [gka/palettes](https://github.com/gka/palettes) - A tool for creating nice, percerptually correct and colorblind-safe color palettes.
+- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [nachtfunke/basic-pattern-repository](https://github.com/nachtfunke/basic-pattern-repository) - Simple patterns for &lt;use&gt;. Just SVG - for your delight!
 - [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization implementing a layered grammar of graphics
 - [kalvn/Shaarli-Material](https://github.com/kalvn/Shaarli-Material) - Shaarli Material is a theme for Shaarli, the famous personal, minimalist, super-fast, database free, bookmarking service.
@@ -1060,7 +1061,6 @@
 ## MDX 
 
 - [OpenPodcastAPI/api-specs](https://github.com/OpenPodcastAPI/api-specs) - Open Podcast API specifications
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [frictionlessdata/datapackage](https://github.com/frictionlessdata/datapackage) - Data Package is a standard consisting of a set of simple yet extensible specifications to describe datasets, data files and tabular data. It is a data definition language (DDL) and data API that facil
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
@@ -1530,7 +1530,7 @@
 - [nextcloud/user_sql](https://github.com/nextcloud/user_sql) - 🔒 App for authenticating Nextcloud users using SQL
 - [zircote/swagger-php](https://github.com/zircote/swagger-php) - A php swagger annotation and parsing library
 - [phpspec/prophecy](https://github.com/phpspec/prophecy) - Highly opinionated mocking framework for PHP 5.3+
-- [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
+- [grokability/snipe-it](https://github.com/grokability/snipe-it) - A free open source IT asset/license management system
 - [WP-API/client-php](https://github.com/WP-API/client-php) - Reference client library for the WP API
 - [Gregwar/Image](https://github.com/Gregwar/Image) - A PHP library to handle images
 - [geocoder-php/Geocoder](https://github.com/geocoder-php/Geocoder) - The most featured Geocoder library written in PHP.
