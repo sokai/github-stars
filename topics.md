@@ -203,7 +203,6 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
-- [ui-design](#ui-design)
 - [unity](#unity)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
@@ -2769,6 +2768,7 @@
 - [stefanheule/graphite](https://github.com/stefanheule/graphite) - Open source watchface for the Pebble Time and Pebble Time Steel
 - [disconnectme/disconnect-tracking-protection](https://github.com/disconnectme/disconnect-tracking-protection) - Canonical repository for the Disconnect services file
 - [arc-design/arc-theme](https://github.com/arc-design/arc-theme) - A flat theme with transparent elements
+- [nordtheme/nord](https://github.com/nordtheme/nord) - An arctic, north-bluish color palette.
 - [frapi/frapi](https://github.com/frapi/frapi) - FRAPI is an API Open Source framework, run it within your hosting environment parallel to your web app, mobile service or legacy system.
 - [dotfiles/dotfiles.github.com](https://github.com/dotfiles/dotfiles.github.com) - Your unofficial guide to doing dotfiles on GitHub.
 - [LibraryCarpentry/Top-10-FAIR](https://github.com/LibraryCarpentry/Top-10-FAIR) - Top 10 FAIR Data & Software Things
@@ -4164,10 +4164,6 @@
 - [aptly-dev/aptly](https://github.com/aptly-dev/aptly) - aptly - Debian repository management tool
 - [sentora/sentora-core](https://github.com/sentora/sentora-core) - Sentora is a web hosting control panel written in PHP for *NIX
 - [daringer/asus-fan](https://github.com/daringer/asus-fan) - Kernel module to get/set (both) fan speed(s) on ASUS Zenbooks
-
-## ui-design 
-
-- [nordtheme/nord](https://github.com/nordtheme/nord) - An arctic, north-bluish color palette.
 
 ## unity 
 
