@@ -1090,6 +1090,7 @@
 
 ## Nix 
 
+- [NuschtOS/nixos-modules](https://github.com/NuschtOS/nixos-modules) - Opinionated, integrated and shared NixOS modules
 - [micaplush/x](https://github.com/micaplush/x) - Monorepo for most of the stuff I'm doing now (sanitized version for publishing)
 - [nix-community/nixos-avf](https://github.com/nix-community/nixos-avf) - NixOS for Android Terminal (Android Virtualization Framework) [maintainers=@mkg20001]
 - [mrnossiom/dotfiles](https://github.com/mrnossiom/dotfiles) - Nix files that govern my computer and server software
