@@ -2213,6 +2213,7 @@
 
 ## others 
 
+- [stefanthoss/mag-ink-dash-plus](https://github.com/stefanthoss/mag-ink-dash-plus) - E-Ink Magic Dashboard that runs off a battery powered Inkplate 10; displaying content from an ICS calendar feed and OpenWeatherMap that are retrieved and rendered by a Docker container.
 - [Tomiyou/ivyterm](https://github.com/Tomiyou/ivyterm) - Terminal emulator with Tmux support implemented in gtk4-rs and VTE4.
 - [micaplush/x](https://github.com/micaplush/x) - Monorepo for most of the stuff I'm doing now (sanitized version for publishing)
 - [nix-community/nixos-avf](https://github.com/nix-community/nixos-avf) - NixOS for Android Terminal (Android Virtualization Framework) [maintainers=@mkg20001]
