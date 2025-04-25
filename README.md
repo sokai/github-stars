@@ -2069,7 +2069,7 @@
 ## Rust 
 
 - [Tomiyou/ivyterm](https://github.com/Tomiyou/ivyterm) - Terminal emulator with Tmux support implemented in gtk4-rs and VTE4.
-- [nix-community/nh](https://github.com/nix-community/nh) - Yet another nix cli helper. [Maintainers=@viperML, @NotAShelf]
+- [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@viperML, @NotAShelf]
 - [mozilla-services/syncstorage-rs](https://github.com/mozilla-services/syncstorage-rs) - Sync Storage server in Rust
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
