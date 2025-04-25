@@ -572,7 +572,7 @@
 
 ## cli 
 
-- [nix-community/nh](https://github.com/nix-community/nh) - Yet another nix cli helper. [Maintainers=@viperML, @NotAShelf]
+- [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@viperML, @NotAShelf]
 - [fndov/nixedit](https://github.com/fndov/nixedit) - NixOS Multipurpose CLI/TUI Utility
 - [etix/mirrorbits](https://github.com/etix/mirrorbits) - Mirrorbits is a geographical download redirector written in Go for distributing files efficiently across a set of mirrors.
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
@@ -3813,7 +3813,7 @@
 
 ## rust 
 
-- [nix-community/nh](https://github.com/nix-community/nh) - Yet another nix cli helper. [Maintainers=@viperML, @NotAShelf]
+- [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@viperML, @NotAShelf]
 - [mozilla-services/syncstorage-rs](https://github.com/mozilla-services/syncstorage-rs) - Sync Storage server in Rust
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [solidiquis/erdtree](https://github.com/solidiquis/erdtree) - A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
