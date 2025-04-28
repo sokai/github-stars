@@ -196,7 +196,7 @@
 - [save-nix-together/open-letter](https://github.com/save-nix-together/open-letter) - an open letter to the NixOS foundation
 - [dohliam/dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) - Drop-in switcher for previewing minimal CSS frameworks
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
-- [erictreacy/mimic.css](https://github.com/erictreacy/mimic.css) - Everyone else is doing it!
+- [erictreacy/mimic.css](https://github.com/erictreacy/mimic.css) - A CSS Animation Library Because Everyone else was doing it at the time!
 - [basscss/basscss](https://github.com/basscss/basscss) - Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library
 - [susam/spcss](https://github.com/susam/spcss) - A simple, minimal, classless stylesheet for simple HTML pages
 - [Automattic/syntaxhighlighter](https://github.com/Automattic/syntaxhighlighter) - WordPress plugin that makes it easy to post syntax-highlighted code snippets.
