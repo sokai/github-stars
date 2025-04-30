@@ -2683,7 +2683,6 @@
 - [LycheeOrg/Lychee-v3](https://github.com/LycheeOrg/Lychee-v3) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 - [beoutbreakprepared/nCoV2019](https://github.com/beoutbreakprepared/nCoV2019) - Location for summaries and analysis of data related to n-CoV 2019, first reported in Wuhan, China
 - [bkardell/auto-archive](https://github.com/bkardell/auto-archive) - 
-- [funtoo/keychain](https://github.com/funtoo/keychain) - keychain ssh-agent front-end
 - [jnsh/arc-theme](https://github.com/jnsh/arc-theme) - A flat theme with transparent elements (actively maintained fork)
 - [nikic/FastRoute](https://github.com/nikic/FastRoute) - Fast request router for PHP
 - [janusman/robot-user-agents](https://github.com/janusman/robot-user-agents) - List of known robot user agents.
@@ -3894,6 +3893,7 @@
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
 - [delight-im/PHP-Auth](https://github.com/delight-im/PHP-Auth) - Authentication for PHP. Simple, lightweight and secure.
 - [phpMussel/phpMussel](https://github.com/phpMussel/phpMussel) - PHP-based anti-virus anti-trojan anti-malware solution.
+- [funtoo/keychain](https://github.com/funtoo/keychain) - A manager for ssh-agent and gpg-agent
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 - [eth0izzle/shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories.
@@ -3912,6 +3912,7 @@
 ## security-tools 
 
 - [paragonie/certainty](https://github.com/paragonie/certainty) - Automated cacert.pem management for PHP projects
+- [funtoo/keychain](https://github.com/funtoo/keychain) - A manager for ssh-agent and gpg-agent
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 
 ## self-hosted 
@@ -3987,6 +3988,7 @@
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [denilsonsa/prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read.
 - [chris-marsh/pureline](https://github.com/chris-marsh/pureline) - A Pure Bash Powerline PS1 Command Prompt
+- [funtoo/keychain](https://github.com/funtoo/keychain) - A manager for ssh-agent and gpg-agent
 - [kdabir/has](https://github.com/kdabir/has) - ✅ checks presence of various command line tools and their versions on the path
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [dominiksalvet/gim](https://github.com/dominiksalvet/gim) - Simple installation manager for your Git projects.
