@@ -2223,6 +2223,8 @@
 
 ## others 
 
+- [haennes/dotfiles](https://github.com/haennes/dotfiles) - 
+- [ldryt/infra](https://github.com/ldryt/infra) - Nix flake and Terraform code for the ldryt.dev environment and infrastructure.
 - [RackTables/racktables](https://github.com/RackTables/racktables) - RackTables current development repository
 - [stefanthoss/family-e-ink-dashboard](https://github.com/stefanthoss/family-e-ink-dashboard) - E-Ink dashboard showing weather and a family calendar running on an Inkplate 10, rendering done in a Docker container
 - [Tomiyou/ivyterm](https://github.com/Tomiyou/ivyterm) - Terminal emulator with Tmux support implemented in gtk4-rs and VTE4.
