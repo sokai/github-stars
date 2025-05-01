@@ -2294,6 +2294,7 @@
 
 ## TypeScript 
 
+- [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
 - [TriliumNext/Notes](https://github.com/TriliumNext/Notes) - Build your personal knowledge base with TriliumNext Notes
 - [thunderbird/send-suite](https://github.com/thunderbird/send-suite) - Send and share large files effortlessly with Thunderbird Send.
 - [defnull/fediwall](https://github.com/defnull/fediwall) - Social media wall for the Fediverse
