@@ -2225,6 +2225,8 @@
 
 ## others 
 
+- [basmilius/weather-icons](https://github.com/basmilius/weather-icons) - Free to use animated weather icons.
+- [erikflowers/weather-icons](https://github.com/erikflowers/weather-icons) - 215 Weather Themed Icons and CSS
 - [haennes/dotfiles](https://github.com/haennes/dotfiles) - 
 - [ldryt/infra](https://github.com/ldryt/infra) - Nix flake and Terraform code for the ldryt.dev environment and infrastructure.
 - [RackTables/racktables](https://github.com/RackTables/racktables) - RackTables current development repository
