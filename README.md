@@ -190,6 +190,7 @@
 
 ## CSS 
 
+- [erikflowers/weather-icons](https://github.com/erikflowers/weather-icons) - 215 Weather Themed Icons and CSS
 - [ekmas/cs16.css](https://github.com/ekmas/cs16.css) - CSS library based on Counter Strike 1.6 UI.
 - [automadcms/automad-prism-themes](https://github.com/automadcms/automad-prism-themes) - A modern collection of more than 60 trending syntax highlighting themes for PrismJS
 - [MarcelKr/grav-theme-tail](https://github.com/MarcelKr/grav-theme-tail) - A modern and clean personal blog theme for grav made with tailwindcss
@@ -394,6 +395,7 @@
 
 ## HTML 
 
+- [basmilius/weather-icons](https://github.com/basmilius/weather-icons) - Free to use animated weather icons.
 - [shhdharmen/keyboard-css](https://github.com/shhdharmen/keyboard-css) - Show off your keyboard shortcuts with style 🦄.
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
