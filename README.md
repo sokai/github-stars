@@ -395,6 +395,7 @@
 
 ## HTML 
 
+- [qwd/Icons](https://github.com/qwd/Icons) - 和风天气开源图标字体库 Open source weather icons && fonts for QWeather
 - [basmilius/weather-icons](https://github.com/basmilius/weather-icons) - Free to use animated weather icons.
 - [shhdharmen/keyboard-css](https://github.com/shhdharmen/keyboard-css) - Show off your keyboard shortcuts with style 🦄.
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
@@ -1210,6 +1211,7 @@
 
 ## Others 
 
+- [Tomorrow-IO-API/tomorrow-weather-codes](https://github.com/Tomorrow-IO-API/tomorrow-weather-codes) - The official collection of Tomorrow.io weather icons
 - [spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat) - 📬 Spacebar is a free open source selfhostable discord compatible communication platform
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [Koenkk/Z-Stack-firmware](https://github.com/Koenkk/Z-Stack-firmware) - Compilation instructions and hex files for Z-Stack firmwares
@@ -1324,6 +1326,7 @@
 
 ## PHP 
 
+- [php-weather/open-meteo](https://github.com/php-weather/open-meteo) - PHP Weather Provider for Open Meteo
 - [RackTables/racktables](https://github.com/RackTables/racktables) - RackTables current development repository
 - [pfefferle/wordpress-rss-club](https://github.com/pfefferle/wordpress-rss-club) - 1st rule of RSS Club is “Don’t Talk About RSS Club”.
 - [janboddez/indieblocks](https://github.com/janboddez/indieblocks) - Use blocks, and, optionally, "short-form" post types to more easily "IndieWebify" your WordPress site.
@@ -1881,6 +1884,7 @@
 
 ## Python 
 
+- [bundesAPI/dwd-api](https://github.com/bundesAPI/dwd-api) - 
 - [stefanthoss/family-e-ink-dashboard](https://github.com/stefanthoss/family-e-ink-dashboard) - E-Ink dashboard showing weather and a family calendar running on an Inkplate 10, rendering done in a Docker container
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [thunderbird/appointment](https://github.com/thunderbird/appointment) - Invite others to grab times on your calendar. Choose a date. Make appointments as easy as it gets.
