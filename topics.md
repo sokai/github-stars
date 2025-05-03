@@ -2225,6 +2225,7 @@
 
 ## others 
 
+- [redhat-performance/tuned](https://github.com/redhat-performance/tuned) - Tuning Profile Delivery Mechanism for Linux
 - [qwd/Icons](https://github.com/qwd/Icons) - 和风天气开源图标字体库 Open source weather icons && fonts for QWeather
 - [Tomorrow-IO-API/tomorrow-weather-codes](https://github.com/Tomorrow-IO-API/tomorrow-weather-codes) - The official collection of Tomorrow.io weather icons
 - [bundesAPI/dwd-api](https://github.com/bundesAPI/dwd-api) - 
