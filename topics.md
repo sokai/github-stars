@@ -2233,6 +2233,7 @@
 
 ## others 
 
+- [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [andrzej-az/cpupower4](https://github.com/andrzej-az/cpupower4) - 
 - [Nebucatnetzer/nixos](https://github.com/Nebucatnetzer/nixos) - 
 - [redhat-performance/tuned](https://github.com/redhat-performance/tuned) - Tuning Profile Delivery Mechanism for Linux
