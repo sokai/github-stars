@@ -596,6 +596,8 @@
 
 ## JavaScript 
 
+- [marella/material-design-icons](https://github.com/marella/material-design-icons) - Latest icon fonts and optimized SVGs for material design icons.
+- [nextcloud/forms](https://github.com/nextcloud/forms) - 📝 Simple form & survey app for Nextcloud
 - [andrzej-az/cpupower4](https://github.com/andrzej-az/cpupower4) - 
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 - [fwextensions/QuicKey](https://github.com/fwextensions/QuicKey) - Jump between recent tabs in Chrome via keyboard shortcuts or a most recently used (MRU) menu.
