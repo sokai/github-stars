@@ -2241,6 +2241,7 @@
 
 ## others 
 
+- [raboof/nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [andrzej-az/cpupower4](https://github.com/andrzej-az/cpupower4) - 
 - [Nebucatnetzer/nixos](https://github.com/Nebucatnetzer/nixos) - 
