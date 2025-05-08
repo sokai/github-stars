@@ -575,6 +575,7 @@
 
 ## cli 
 
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [rest-sh/restish](https://github.com/rest-sh/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
 - [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@viperML, @NotAShelf]
 - [fndov/nixedit](https://github.com/fndov/nixedit) - NixOS Multipurpose CLI/TUI Utility
@@ -1472,6 +1473,7 @@
 
 ## http 
 
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [amphp/http-client](https://github.com/amphp/http-client) - An advanced async HTTP client library for PHP, enabling efficient, non-blocking, and concurrent requests and responses.
 - [etix/mirrorbits](https://github.com/etix/mirrorbits) - Mirrorbits is a geographical download redirector written in Go for distributing files efficiently across a set of mirrors.
 - [simPod/GrafanaJsonDatasource](https://github.com/simPod/GrafanaJsonDatasource) - Grafana datasource to load JSON data over your arbitrary HTTP backend
@@ -2241,6 +2243,7 @@
 
 ## others 
 
+- [coldelectrons/unitedstatesofsmash](https://github.com/coldelectrons/unitedstatesofsmash) - One (nix flake) for all (my installs)
 - [raboof/nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [andrzej-az/cpupower4](https://github.com/andrzej-az/cpupower4) - 
@@ -4163,6 +4166,7 @@
 
 ## testing 
 
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
