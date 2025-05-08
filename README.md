@@ -1103,6 +1103,7 @@
 
 ## Nix 
 
+- [coldelectrons/unitedstatesofsmash](https://github.com/coldelectrons/unitedstatesofsmash) - One (nix flake) for all (my installs)
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman]
 - [Nebucatnetzer/nixos](https://github.com/Nebucatnetzer/nixos) - 
 - [haennes/dotfiles](https://github.com/haennes/dotfiles) - 
@@ -2091,6 +2092,7 @@
 
 ## Rust 
 
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [TheAlexDev23/power-options](https://github.com/TheAlexDev23/power-options) - Most feature-complete Linux GUI power management solution.
 - [Tomiyou/ivyterm](https://github.com/Tomiyou/ivyterm) - Terminal emulator with Tmux support implemented in gtk4-rs and VTE4.
 - [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@viperML, @NotAShelf]
