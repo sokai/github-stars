@@ -307,6 +307,7 @@
 
 ## Go 
 
+- [JasonLovesDoggo/caddy-defender](https://github.com/JasonLovesDoggo/caddy-defender) - Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [pouriyajamshidi/tcping](https://github.com/pouriyajamshidi/tcping) - Ping TCP ports using tcping. Inspired by Linux's ping utility. Written in Go
 - [rest-sh/restish](https://github.com/rest-sh/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
@@ -1104,6 +1105,7 @@
 
 ## Nix 
 
+- [jpetrucciani/nix](https://github.com/jpetrucciani/nix) - ❄️ my nix modules, overlays, host configurations, and more!
 - [coldelectrons/unitedstatesofsmash](https://github.com/coldelectrons/unitedstatesofsmash) - One (nix flake) for all (my installs)
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman]
 - [Nebucatnetzer/nixos](https://github.com/Nebucatnetzer/nixos) - 
