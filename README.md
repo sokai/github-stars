@@ -1398,7 +1398,7 @@
 - [CakeDC/oven](https://github.com/CakeDC/oven) - Welcome to Oven. The easiest way to install CakePHP.
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
-- [chevereto/chevereto](https://github.com/chevereto/chevereto) - Mature and trusted self-hosted image and video hosting solution since 2007. Create your own Flickr/Imgur-style media sharing platform with full control over your content and rules.
+- [chevereto/chevereto](https://github.com/chevereto/chevereto) - The mature, battle-tested, high-end self-hosted image and video hosting solution trusted since 2007. Build your own Flickr or Imgur-style media sharing platform with complete control over your content
 - [w3shaman/php-progress-bar](https://github.com/w3shaman/php-progress-bar) - PHP Progress Bar Scipt
 - [nextcloud/twofactor_gateway](https://github.com/nextcloud/twofactor_gateway) - 🔑 Second factor provider using an external messaging gateway (SMS, Telegram, Signal)
 - [Athlon1600/youtube-downloader](https://github.com/Athlon1600/youtube-downloader) - :tv: PHP based alternative to youtube-dl and yt-dlp. Active and frequently updated! :star:
