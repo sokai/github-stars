@@ -569,7 +569,7 @@
 - [sgsinclair/VoyantServer](https://github.com/sgsinclair/VoyantServer) - 
 - [senderle/voyant-docker](https://github.com/senderle/voyant-docker) - A simple docker build repo for getting a public Voyant Tools server running
 - [vbier/habpanelviewer](https://github.com/vbier/habpanelviewer) - An openHAB integrated kiosk browser
-- [deltachat/deltachat-android](https://github.com/deltachat/deltachat-android) - Email-based instant messaging for Android.
+- [deltachat/deltachat-android](https://github.com/deltachat/deltachat-android) - Decentralized private messenger with chat-shared tools and games for Android
 - [klinker24/talon-for-twitter-android](https://github.com/klinker24/talon-for-twitter-android) - The most powerful and beautiful Twitter client available.
 - [MKergall/osmbonuspack](https://github.com/MKergall/osmbonuspack) - A third-party library of (very) useful additional objects for osmdroid
 - [osmandapp/OsmAnd](https://github.com/osmandapp/OsmAnd) - OsmAnd
