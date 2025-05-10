@@ -326,7 +326,7 @@
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [dakhnod/Meshenger](https://github.com/dakhnod/Meshenger) - open source, P2P messenger without centralized server that works in a local network.
 - [vbier/habpanelviewer](https://github.com/vbier/habpanelviewer) - An openHAB integrated kiosk browser
-- [deltachat/deltachat-android](https://github.com/deltachat/deltachat-android) - Email-based instant messaging for Android.
+- [deltachat/deltachat-android](https://github.com/deltachat/deltachat-android) - Decentralized private messenger with chat-shared tools and games for Android
 - [klinker24/talon-for-twitter-android](https://github.com/klinker24/talon-for-twitter-android) - The most powerful and beautiful Twitter client available.
 - [openhab/openhab-android](https://github.com/openhab/openhab-android) - openHAB client for Android
 - [pacien/tincapp](https://github.com/pacien/tincapp) - Android binding and user interface for the tinc mesh VPN daemon.
