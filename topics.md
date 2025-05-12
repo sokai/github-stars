@@ -256,6 +256,8 @@
 
 ## android 
 
+- [deckerst/aves](https://github.com/deckerst/aves) - Aves is a gallery and metadata explorer app, built for Android with Flutter.
+- [home-assistant/android](https://github.com/home-assistant/android) - Home Assistant Companion for Android
 - [wgtunnel/wgtunnel](https://github.com/wgtunnel/wgtunnel) - A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling.
 - [adeekshith/watomatic](https://github.com/adeekshith/watomatic) - Auto reply app to enable auto reply for messengers like WhatsApp and Facebook Messenger
 - [protonpass/android-pass](https://github.com/protonpass/android-pass) - Android code for the Proton Pass application
@@ -1038,6 +1040,7 @@
 
 ## flutter 
 
+- [deckerst/aves](https://github.com/deckerst/aves) - Aves is a gallery and metadata explorer app, built for Android with Flutter.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [namidaco/namida](https://github.com/namidaco/namida) - A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter
 - [JGeek00/linkdy](https://github.com/JGeek00/linkdy) - Linkding client created with Flutter.
@@ -1230,6 +1233,7 @@
 
 ## hacktoberfest 
 
+- [home-assistant/android](https://github.com/home-assistant/android) - Home Assistant Companion for Android
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [rest-sh/restish](https://github.com/rest-sh/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations
@@ -1405,6 +1409,7 @@
 
 ## home-assistant 
 
+- [home-assistant/android](https://github.com/home-assistant/android) - Home Assistant Companion for Android
 - [jcwillox/hassio-rclone-backup](https://github.com/jcwillox/hassio-rclone-backup) - Home Assistant addon to automatically sync backups to remote locations using Rclone
 - [badele/nix-homelab](https://github.com/badele/nix-homelab) - Homelab and dotfiles made with NixOS
 - [hg1337/homeassistant-dwd](https://github.com/hg1337/homeassistant-dwd) - Custom component for Home Assistant that integrates weather data (measurements and forecasts) of Deutscher Wetterdienst (DWD).
@@ -1744,6 +1749,7 @@
 
 ## kotlin 
 
+- [home-assistant/android](https://github.com/home-assistant/android) - Home Assistant Companion for Android
 - [wgtunnel/wgtunnel](https://github.com/wgtunnel/wgtunnel) - A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling.
 - [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
 - [OMGSoundboard/android-app](https://github.com/OMGSoundboard/android-app) - OMGSoundboard Android App
