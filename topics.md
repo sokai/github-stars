@@ -204,6 +204,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui](#ui)
 - [ui-design](#ui-design)
 - [unity](#unity)
 - [vim](#vim)
@@ -2651,7 +2652,6 @@
 - [Tudmotu/gnome-shell-extension-clipboard-indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator) - The most popular clipboard manager for GNOME, with over 1M downloads
 - [Fasse/admidio-statistics](https://github.com/Fasse/admidio-statistics) - The statistics plugin for the membership management software Admidio. It's not my code but I keep it up to date for each version of Admidio.
 - [v4l2loopback/v4l2loopback](https://github.com/v4l2loopback/v4l2loopback) - v4l2-loopback device
-- [robinparisi/tingle](https://github.com/robinparisi/tingle) - ⚡ 2kB vanilla modal plugin, no dependencies and easy-to-use
 - [jikamens/IMAPReceivedDate](https://github.com/jikamens/IMAPReceivedDate) - Thunderbird "IMAP Received Date" extension
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for Linux
 - [LineageOS/android_device_oneplus_avicii](https://github.com/LineageOS/android_device_oneplus_avicii) - 
@@ -2821,7 +2821,6 @@
 - [sidewalklabs/dtpr](https://github.com/sidewalklabs/dtpr) - Open source components from the Digital Transparency in the Public Realm project
 - [WebThingsIO/docs](https://github.com/WebThingsIO/docs) - WebThings Documentation
 - [editorconfig/editorconfig-geany](https://github.com/editorconfig/editorconfig-geany) - EditorConfig plugin for Geany
-- [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 - [philn/gnome-shell-gajim-extension](https://github.com/philn/gnome-shell-gajim-extension) - [UNMAINTAINED] Gajim IM integration in GNOME Shell
 - [ipsips/discgolfmetrix-wp-plugin](https://github.com/ipsips/discgolfmetrix-wp-plugin) - 
 - [uhub/awesome-php](https://github.com/uhub/awesome-php) - A curated list of awesome PHP frameworks, libraries and software.
@@ -3045,7 +3044,6 @@
 - [asvd/microlight](https://github.com/asvd/microlight) - highlights code in any programming language
 - [CyanogenMod/android_device_samsung_klteduos](https://github.com/CyanogenMod/android_device_samsung_klteduos) - 
 - [jlukic/frontend-stuff](https://github.com/jlukic/frontend-stuff) - A continuously expanded list of framework/libraries and tools I used/want to use when building things on the web. Mostly Javascript stuff.
-- [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
 - [AceLewis/my_first_calculator.py](https://github.com/AceLewis/my_first_calculator.py) - my_first_calculator.py
 - [stackp/Droopy](https://github.com/stackp/Droopy) - Mini Web server that let others upload files to your computer
 - [highcharts/highstock-release](https://github.com/highcharts/highstock-release) - Official shim repo for Highstock releases
@@ -4244,6 +4242,20 @@
 - [aptly-dev/aptly](https://github.com/aptly-dev/aptly) - aptly - Debian repository management tool
 - [sentora/sentora-core](https://github.com/sentora/sentora-core) - Sentora is a web hosting control panel written in PHP for *NIX
 - [daringer/asus-fan](https://github.com/daringer/asus-fan) - Kernel module to get/set (both) fan speed(s) on ASUS Zenbooks
+
+## ui 
+
+- [robinparisi/tingle](https://github.com/robinparisi/tingle) - ⚡ 2kB vanilla modal plugin, no dependencies and easy-to-use
+- [coreui/coreui-free-laravel-admin-template](https://github.com/coreui/coreui-free-laravel-admin-template) - CoreUI Free Laravel Bootstrap Admin Template
+- [filp/whoops](https://github.com/filp/whoops) - PHP errors for cool kids
+- [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
+- [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
+- [nordtheme/nord](https://github.com/nordtheme/nord) - An arctic, north-bluish color palette.
+- [akiraux/Akira](https://github.com/akiraux/Akira) - Native Linux App for UI and UX Design built in Vala and GTK
+- [mdbootstrap/material-design-for-bootstrap](https://github.com/mdbootstrap/material-design-for-bootstrap) - Important! A new UI Kit version for Bootstrap 5 is available. Access the latest free version via the link below.
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
+- [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
+- [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash) - A beautiful web dashboard for Linux
 
 ## ui-design 
 
