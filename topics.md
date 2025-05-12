@@ -2252,6 +2252,7 @@
 
 ## others 
 
+- [TJYSunset/Phocid](https://github.com/TJYSunset/Phocid) - A modern offline music player with familiar designs for Android 11+.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary microblogging platform 🚀
 - [tsileo/microblog.pub](https://github.com/tsileo/microblog.pub) - A self-hosted, single-user, ActivityPub powered microblog.
 - [coldelectrons/unitedstatesofsmash](https://github.com/coldelectrons/unitedstatesofsmash) - One (nix flake) for all (my installs)
