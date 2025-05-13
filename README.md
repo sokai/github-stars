@@ -586,7 +586,6 @@
 - [segler-alex/RadioDroid](https://github.com/segler-alex/RadioDroid) - radio browser app that uses www.radio-browser.info on android
 - [dimtion/Shaarlier](https://github.com/dimtion/Shaarlier) - Simple Android app for sharing links on Shaarli.
 - [willuhn/jameica](https://github.com/willuhn/jameica) - Jameica is an Application-Platform written in Java containing a SWT-UI. It provides different services (GUI-Toolkit, Logging, Security, Backup, Lifecycle-Management, Message-Bus) to the installed plug
-- [ecsec/open-ecard](https://github.com/ecsec/open-ecard) - Client side implementation of the eCard-API-Framework (BSI TR-03112) and related international standards, such as ISO/IEC 24727.
 - [CellularPrivacy/Android-IMSI-Catcher-Detector](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector) - AIMSICD • Fight IMSI-Catcher, StingRay and silent SMS!
 - [0xbb/otp-authenticator](https://github.com/0xbb/otp-authenticator) - A two-factor authentication App for Android
 - [GroundApps/ShoppingList](https://github.com/GroundApps/ShoppingList) - 
@@ -1065,6 +1064,7 @@
 - [quarck/CalendarNotification](https://github.com/quarck/CalendarNotification) - Android app extending calendar notifications with snooze button and notifications persistence
 - [TwidereProject/Twidere-Android](https://github.com/TwidereProject/Twidere-Android) - 
 - [mapzen/eraser-map](https://github.com/mapzen/eraser-map) - Privacy-focused mapping application for Android
+- [ecsec/open-ecard](https://github.com/ecsec/open-ecard) - Client side implementation of the eCard-API-Framework (BSI TR-03112) and related international standards, such as ISO/IEC 24727.
 - [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
 - [owncloud/android](https://github.com/owncloud/android) - :phone: The ownCloud Android App
 
