@@ -1238,6 +1238,7 @@
 
 ## hacktoberfest 
 
+- [markuspoerschke/iCal](https://github.com/markuspoerschke/iCal) - iCal-creator for PHP
 - [home-assistant/android](https://github.com/home-assistant/android) - Home Assistant Companion for Android
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [rest-sh/restish](https://github.com/rest-sh/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
@@ -3442,6 +3443,8 @@
 
 ## php 
 
+- [markuspoerschke/iCal](https://github.com/markuspoerschke/iCal) - iCal-creator for PHP
+- [spatie/holidays](https://github.com/spatie/holidays) - Calculate which days you don't have to work!
 - [amphp/http-client](https://github.com/amphp/http-client) - An advanced async HTTP client library for PHP, enabling efficient, non-blocking, and concurrent requests and responses.
 - [php-weather/open-meteo](https://github.com/php-weather/open-meteo) - PHP Weather Provider for Open Meteo
 - [JayBizzle/Crawler-Detect](https://github.com/JayBizzle/Crawler-Detect) - 🕷 CrawlerDetect is a PHP class for detecting bots/crawlers/spiders via the user agent
