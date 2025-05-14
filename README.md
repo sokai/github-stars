@@ -1349,6 +1349,8 @@
 
 ## PHP 
 
+- [markuspoerschke/iCal](https://github.com/markuspoerschke/iCal) - iCal-creator for PHP
+- [spatie/holidays](https://github.com/spatie/holidays) - Calculate which days you don't have to work!
 - [amphp/http-client](https://github.com/amphp/http-client) - An advanced async HTTP client library for PHP, enabling efficient, non-blocking, and concurrent requests and responses.
 - [php-weather/open-meteo](https://github.com/php-weather/open-meteo) - PHP Weather Provider for Open Meteo
 - [RackTables/racktables](https://github.com/RackTables/racktables) - RackTables current development repository
