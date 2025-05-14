@@ -601,6 +601,10 @@
 
 ## JavaScript 
 
+- [commenthol/date-holidays](https://github.com/commenthol/date-holidays) - worldwide holidays
+- [buttons/github-buttons](https://github.com/buttons/github-buttons) - :octocat: Unofficial github:buttons
+- [mdo/github-buttons](https://github.com/mdo/github-buttons) - Showcase the success of any GitHub repo or user with these simple, static buttons with dynamic counts.
+- [commenthol/md-fileserver](https://github.com/commenthol/md-fileserver) - Locally view markdown files in a browser.
 - [marella/material-design-icons](https://github.com/marella/material-design-icons) - Latest icon fonts and optimized SVGs for material design icons.
 - [nextcloud/forms](https://github.com/nextcloud/forms) - 📝 Simple form & survey app for Nextcloud
 - [andrzej-az/cpupower4](https://github.com/andrzej-az/cpupower4) - 
