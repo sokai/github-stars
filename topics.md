@@ -1238,6 +1238,7 @@
 
 ## hacktoberfest 
 
+- [catppuccin/cursors](https://github.com/catppuccin/cursors) - 🐁 Soothing pastel cursors for GTK/Plasma/Hyprland
 - [markuspoerschke/iCal](https://github.com/markuspoerschke/iCal) - iCal-creator for PHP
 - [home-assistant/android](https://github.com/home-assistant/android) - Home Assistant Companion for Android
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
@@ -2267,6 +2268,8 @@
 
 ## others 
 
+- [OtaK/McMojave-hyprcursor](https://github.com/OtaK/McMojave-hyprcursor) - Pure SVG Hyprcursor port of the amazing McMojave XCursor theme by @vinceluice
+- [Libadoxon/mcmojave-hyprcursor](https://github.com/Libadoxon/mcmojave-hyprcursor) - The McMojave cursor theme ported to hyprcusor
 - [Juve45/batstat](https://github.com/Juve45/batstat) - CLI battery status for linux
 - [TJYSunset/Phocid](https://github.com/TJYSunset/Phocid) - A modern offline music player with familiar designs for Android 11+.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary microblogging platform 🚀
