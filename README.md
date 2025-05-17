@@ -1236,6 +1236,7 @@
 
 ## Others 
 
+- [catppuccin/mc](https://github.com/catppuccin/mc) - 🌜 Soothing pastel theme for Midnight Commander
 - [OtaK/McMojave-hyprcursor](https://github.com/OtaK/McMojave-hyprcursor) - Pure SVG Hyprcursor port of the amazing McMojave XCursor theme by @vinceluice
 - [Tomorrow-IO-API/tomorrow-weather-codes](https://github.com/Tomorrow-IO-API/tomorrow-weather-codes) - The official collection of Tomorrow.io weather icons
 - [spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat) - 📬 Spacebar is a free open source selfhostable discord compatible communication platform
