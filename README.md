@@ -942,7 +942,7 @@
 - [gfranko/jquery.tocify.js](https://github.com/gfranko/jquery.tocify.js) - A jQuery Table of Contents plugin that can be themed with Twitter Bootstrap or jQueryUI.
 - [DataTables/Plugins](https://github.com/DataTables/Plugins) - Plug-ins for DataTables
 - [flourishlib/flourishlib.com](https://github.com/flourishlib/flourishlib.com) - 
-- [KamilaBorowska/QuickPaste](https://github.com/KamilaBorowska/QuickPaste) - Pastebin which hopefully will be fast
+- [LunaBorowska/QuickPaste](https://github.com/LunaBorowska/QuickPaste) - Pastebin which hopefully will be fast
 - [bmcbride/leaflet-users-map](https://github.com/bmcbride/leaflet-users-map) - Map showing users of the Leaflet mapping library
 - [andreassolberg/jso](https://github.com/andreassolberg/jso) - Easy to use OAuth 2.0 javascript library for use in your javascript application.
 - [philippK-de/5up.js](https://github.com/philippK-de/5up.js) - HTML5 file upload library thingy
@@ -1152,7 +1152,7 @@
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers
 - [fricklerhandwerk/home-damager](https://github.com/fricklerhandwerk/home-damager) - Fully declarative Home Manager installation
 - [oddlama/nix-topology](https://github.com/oddlama/nix-topology) - 🍁 Generate infrastructure and network diagrams directly from your NixOS configurations
-- [danth/stylix](https://github.com/danth/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid
+- [nix-community/stylix](https://github.com/nix-community/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@awwpotato, @danth, @trueNAHO]
 - [auxolotl/templates](https://github.com/auxolotl/templates) - Nix templates for quickly bootstrapping a system with Auxpkgs
 - [felschr/nixos-config](https://github.com/felschr/nixos-config) - Mirror of my NixOS configuration
 - [tstachl/z](https://github.com/tstachl/z) - 
