@@ -2412,7 +2412,7 @@
 - [fricklerhandwerk/home-damager](https://github.com/fricklerhandwerk/home-damager) - Fully declarative Home Manager installation
 - [nix-community/buildbot-nix](https://github.com/nix-community/buildbot-nix) - A nixos module to make buildbot a proper Nix-CI [maintainer=@Mic92,@MagicRB]
 - [oddlama/nix-topology](https://github.com/oddlama/nix-topology) - 🍁 Generate infrastructure and network diagrams directly from your NixOS configurations
-- [danth/stylix](https://github.com/danth/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid
+- [nix-community/stylix](https://github.com/nix-community/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@awwpotato, @danth, @trueNAHO]
 - [auxolotl/templates](https://github.com/auxolotl/templates) - Nix templates for quickly bootstrapping a system with Auxpkgs
 - [automadcms/automad-prism-themes](https://github.com/automadcms/automad-prism-themes) - A modern collection of more than 60 trending syntax highlighting themes for PrismJS
 - [MarcelKr/grav-theme-tail](https://github.com/MarcelKr/grav-theme-tail) - A modern and clean personal blog theme for grav made with tailwindcss
@@ -3298,7 +3298,7 @@
 - [ghunti/HighchartsPHP](https://github.com/ghunti/HighchartsPHP) - A php wrapper for highcharts and highstock javascript libraries
 - [alex-LE/yourTinyTodo](https://github.com/alex-LE/yourTinyTodo) - Simple way to manage your todo list in AJAX style.
 - [dmfs/xml-serializer](https://github.com/dmfs/xml-serializer) - xml-serializer used in CalDAV-Sync and CardDAV-Sync for Android
-- [KamilaBorowska/QuickPaste](https://github.com/KamilaBorowska/QuickPaste) - Pastebin which hopefully will be fast
+- [LunaBorowska/QuickPaste](https://github.com/LunaBorowska/QuickPaste) - Pastebin which hopefully will be fast
 - [mikelbring/tinyissue](https://github.com/mikelbring/tinyissue) - Simple Issue Tracking for Teams
 - [brockhaus/prairie-openid2-server](https://github.com/brockhaus/prairie-openid2-server) - furter development of the prairie openid server originally developed by barnraiser.com
 - [bmcbride/leaflet-users-map](https://github.com/bmcbride/leaflet-users-map) - Map showing users of the Leaflet mapping library
