@@ -181,7 +181,6 @@
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 - [swoole/swoole-src](https://github.com/swoole/swoole-src) - 🚀 Coroutine-based concurrency library for PHP
-- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [fwbuilder/fwbuilder](https://github.com/fwbuilder/fwbuilder) - A clone of the SourceForge fwbuilder repostiory
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -1064,6 +1063,7 @@
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
 - [WireGuard/wireguard-android](https://github.com/WireGuard/wireguard-android) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-android
 - [owntracks/android](https://github.com/owntracks/android) - OwnTracks Android App
+- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [openhab/openhab-android](https://github.com/openhab/openhab-android) - openHAB client for Android
 - [pacien/tincapp](https://github.com/pacien/tincapp) - Android binding and user interface for the tinc mesh VPN daemon.
 - [openHPI/xikolo-android](https://github.com/openHPI/xikolo-android) - 📱 Android App of the HPI MOOC Platform
