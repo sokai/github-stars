@@ -1915,6 +1915,7 @@
 
 ## Python 
 
+- [okfn/opendataeditor](https://github.com/okfn/opendataeditor) - The Open Data Editor (ODE) is a no-code application to explore, validate and publish data in a simple way. Forever free and open source project powered by the Frictionless Framework.
 - [catppuccin/cursors](https://github.com/catppuccin/cursors) - 🐁 Soothing pastel cursors for GTK/Plasma/Hyprland
 - [tsileo/microblog.pub](https://github.com/tsileo/microblog.pub) - A self-hosted, single-user, ActivityPub powered microblog.
 - [redhat-performance/tuned](https://github.com/redhat-performance/tuned) - Tuning Profile Delivery Mechanism for Linux
@@ -2111,6 +2112,7 @@
 
 ## Rust 
 
+- [qitechgmbh/control](https://github.com/qitechgmbh/control) - 
 - [uncenter/nixpkgs-track](https://github.com/uncenter/nixpkgs-track) - 📦 Track where Nixpkgs pull requests have reached.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [TheAlexDev23/power-options](https://github.com/TheAlexDev23/power-options) - Most feature-complete Linux GUI power management solution.
@@ -2337,6 +2339,7 @@
 
 ## TypeScript 
 
+- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary microblogging platform 🚀
 - [DefGuard/defguard](https://github.com/DefGuard/defguard) - Zero-Trust access management with true WireGuard® 2FA/MFA
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
