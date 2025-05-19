@@ -1362,7 +1362,6 @@
 - [phpbb/phpbb](https://github.com/phpbb/phpbb) - phpBB Development: phpBB is a popular open-source bulletin board written in PHP. This repository also contains the history of version 2.
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [rubo77/rsync-homedir-excludes](https://github.com/rubo77/rsync-homedir-excludes) - 
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
