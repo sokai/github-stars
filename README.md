@@ -601,6 +601,7 @@
 
 ## JavaScript 
 
+- [mechtifs/wiggle](https://github.com/mechtifs/wiggle) - Gnome extension that magnifies the cursor when the mouse is moved rapidly.
 - [sbs20/scanservjs](https://github.com/sbs20/scanservjs) - SANE scanner nodejs web ui
 - [commenthol/date-holidays](https://github.com/commenthol/date-holidays) - worldwide holidays
 - [buttons/github-buttons](https://github.com/buttons/github-buttons) - :octocat: Unofficial github:buttons
