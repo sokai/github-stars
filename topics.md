@@ -2113,6 +2113,7 @@
 
 ## mysql 
 
+- [bigprof-software/online-rental-property-manager](https://github.com/bigprof-software/online-rental-property-manager) - Manage your rental properties, units, applications, leases and tenants.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
@@ -2274,6 +2275,12 @@
 
 ## others 
 
+- [allotropia/nextcloud_files_libreoffice_edit](https://github.com/allotropia/nextcloud_files_libreoffice_edit) - Nextcloud App to edit files directly with LibreOffice (via WebDav)
+- [Igel18/Berlussimo](https://github.com/Igel18/Berlussimo) - Hausverwaltung Software
+- [qbnm/Berlussimo](https://github.com/qbnm/Berlussimo) - Hausverwaltung Software
+- [Darkjeff/ultimateimmo](https://github.com/Darkjeff/ultimateimmo) - module dolibarr estate rent
+- [openjverein/jverein](https://github.com/openjverein/jverein) - Open JVerein - Open Source Vereinsverwaltung
+- [SuperLonci/ImmiQ](https://github.com/SuperLonci/ImmiQ) - A smart and efficient property and tenant management application. It helps landlords and property managers track rental payments, organize leases, manage maintenance requests, and streamline communica
 - [mechtifs/wiggle](https://github.com/mechtifs/wiggle) - Gnome extension that magnifies the cursor when the mouse is moved rapidly.
 - [sbs20/scanservjs](https://github.com/sbs20/scanservjs) - SANE scanner nodejs web ui
 - [qitechgmbh/control](https://github.com/qitechgmbh/control) - 
@@ -3457,6 +3464,7 @@
 
 ## php 
 
+- [bigprof-software/online-rental-property-manager](https://github.com/bigprof-software/online-rental-property-manager) - Manage your rental properties, units, applications, leases and tenants.
 - [markuspoerschke/iCal](https://github.com/markuspoerschke/iCal) - iCal-creator for PHP
 - [spatie/holidays](https://github.com/spatie/holidays) - Calculate which days you don't have to work!
 - [amphp/http-client](https://github.com/amphp/http-client) - An advanced async HTTP client library for PHP, enabling efficient, non-blocking, and concurrent requests and responses.
@@ -4382,6 +4390,7 @@
 
 ## webapp 
 
+- [bigprof-software/online-rental-property-manager](https://github.com/bigprof-software/online-rental-property-manager) - Manage your rental properties, units, applications, leases and tenants.
 - [asciimoo/omnom](https://github.com/asciimoo/omnom) - A webpage bookmarking and snapshotting service
 - [AndrewPaglusch/FlashPaper](https://github.com/AndrewPaglusch/FlashPaper) - One-time encrypted password/secret sharing
 - [dmpop/pellicola](https://github.com/dmpop/pellicola) - Pastebin for your photos
