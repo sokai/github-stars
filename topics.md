@@ -2275,6 +2275,7 @@
 
 ## others 
 
+- [snowfallorg/flake](https://github.com/snowfallorg/flake) - Simplify Nix Flakes on the command line.
 - [allotropia/nextcloud_files_libreoffice_edit](https://github.com/allotropia/nextcloud_files_libreoffice_edit) - Nextcloud App to edit files directly with LibreOffice (via WebDav)
 - [Igel18/Berlussimo](https://github.com/Igel18/Berlussimo) - Hausverwaltung Software
 - [qbnm/Berlussimo](https://github.com/qbnm/Berlussimo) - Hausverwaltung Software
