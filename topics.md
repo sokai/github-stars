@@ -2317,6 +2317,8 @@
 
 ## others 
 
+- [JulienMalka/artiflakery](https://github.com/JulienMalka/artiflakery) - A webserver for on the fly delivery of Nix flake artifacts
+- [Lassulus/vars](https://github.com/Lassulus/vars) - 
 - [verdigado/organization_folders](https://github.com/verdigado/organization_folders) - 
 - [viperML/nix-maid](https://github.com/viperML/nix-maid) - Systemd + Nix dotfile management
 - [snowfallorg/flake](https://github.com/snowfallorg/flake) - Simplify Nix Flakes on the command line.
