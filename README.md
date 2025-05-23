@@ -308,6 +308,7 @@
 
 ## Go 
 
+- [corazawaf/coraza-caddy](https://github.com/corazawaf/coraza-caddy) - OWASP Coraza middleware for Caddy. It provides Web Application Firewall capabilities
 - [asciimoo/omnom](https://github.com/asciimoo/omnom) - A webpage bookmarking and snapshotting service
 - [JasonLovesDoggo/caddy-defender](https://github.com/JasonLovesDoggo/caddy-defender) - Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -1082,6 +1083,7 @@
 
 ## Lua 
 
+- [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
 - [bjc/prosody](https://github.com/bjc/prosody) - IMPORTANT: due to a drive failure, as of 13-Mar-2021, the Mercurial repository had to be re-mirrored, which changed every commit SHA. The old SHAs and trees are backed up in the vault branches. Please
 - [EdenEast/nyx](https://github.com/EdenEast/nyx) - ⚙️Nix[OS] Configuration
 - [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
@@ -1360,6 +1362,8 @@
 
 ## PHP 
 
+- [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
+- [verdigado/organization_folders](https://github.com/verdigado/organization_folders) - 
 - [Igel18/Berlussimo](https://github.com/Igel18/Berlussimo) - Hausverwaltung Software
 - [qbnm/Berlussimo](https://github.com/qbnm/Berlussimo) - Hausverwaltung Software
 - [Darkjeff/ultimateimmo](https://github.com/Darkjeff/ultimateimmo) - module dolibarr estate rent
@@ -1926,6 +1930,8 @@
 
 ## Python 
 
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
+- [jasonxtn/Argus](https://github.com/jasonxtn/Argus) - The Ultimate Information Gathering Toolkit
 - [okfn/opendataeditor](https://github.com/okfn/opendataeditor) - The Open Data Editor (ODE) is a no-code application to explore, validate and publish data in a simple way. Forever free and open source project powered by the Frictionless Framework.
 - [catppuccin/cursors](https://github.com/catppuccin/cursors) - 🐁 Soothing pastel cursors for GTK/Plasma/Hyprland
 - [tsileo/microblog.pub](https://github.com/tsileo/microblog.pub) - A self-hosted, single-user, ActivityPub powered microblog.
@@ -2194,6 +2200,7 @@
 
 ## Shell 
 
+- [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 - [snowfallorg/flake](https://github.com/snowfallorg/flake) - Simplify Nix Flakes on the command line.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [ngandrass/truenas-spindown-timer](https://github.com/ngandrass/truenas-spindown-timer) - Monitors drive I/O and forces HDD spindown after a given idle period. Resistant to S.M.A.R.T. reads.
@@ -2351,6 +2358,7 @@
 
 ## TypeScript 
 
+- [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [SuperLonci/ImmiQ](https://github.com/SuperLonci/ImmiQ) - A smart and efficient property and tenant management application. It helps landlords and property managers track rental payments, organize leases, manage maintenance requests, and streamline communica
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
@@ -2478,6 +2486,8 @@
 
 ## Vue 
 
+- [do-community/dns-tool](https://github.com/do-community/dns-tool) - A set of browser-based DNS tools for DigitalOcean Community.
+- [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more!
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [statping-ng/statping-ng](https://github.com/statping-ng/statping-ng) - An updated drop-in for statping. A Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
