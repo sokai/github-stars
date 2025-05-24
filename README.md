@@ -142,6 +142,7 @@
 
 ## C++ 
 
+- [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, R
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [Juve45/batstat](https://github.com/Juve45/batstat) - CLI battery status for linux
 - [raboof/nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
@@ -407,6 +408,7 @@
 
 ## HTML 
 
+- [SorkinType/Merriweather](https://github.com/SorkinType/Merriweather) - Merriweather is a serif typeface. It is offered in Variable font format and static formats ( OTF, TTF WOFF etc).
 - [qwd/Icons](https://github.com/qwd/Icons) - 和风天气开源图标字体库 Open source weather icons && fonts for QWeather
 - [basmilius/weather-icons](https://github.com/basmilius/weather-icons) - Free to use animated weather icons.
 - [shhdharmen/keyboard-css](https://github.com/shhdharmen/keyboard-css) - Show off your keyboard shortcuts with style 🦄.
@@ -1123,6 +1125,7 @@
 
 ## Nix 
 
+- [vincentbernat/caddy-nix](https://github.com/vincentbernat/caddy-nix) - Build Caddy with additional plugins with Nix
 - [Lassulus/vars](https://github.com/Lassulus/vars) - 
 - [viperML/nix-maid](https://github.com/viperML/nix-maid) - Systemd + Nix dotfile management
 - [Libadoxon/mcmojave-hyprcursor](https://github.com/Libadoxon/mcmojave-hyprcursor) - The McMojave cursor theme ported to hyprcusor
@@ -2202,6 +2205,7 @@
 
 ## Shell 
 
+- [GAS85/nextcloud_scripts](https://github.com/GAS85/nextcloud_scripts) - This a collection of scripts that makes my nextcloud administrator life easy by automation and better reporting. And I would like to share it with U.
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 - [snowfallorg/flake](https://github.com/snowfallorg/flake) - Simplify Nix Flakes on the command line.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
