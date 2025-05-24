@@ -1103,7 +1103,6 @@
 ## Makefile 
 
 - [kika/fixedsys](https://github.com/kika/fixedsys) - Fixedsys Excelsior font with programming ligatures
-- [jonlabelle/docker-network-tools](https://github.com/jonlabelle/docker-network-tools) - A Docker image with various network tools pre-installed.
 - [pipewire-debian/pipewire-debian](https://github.com/pipewire-debian/pipewire-debian) - Upstream Version of pipewire, wireplumber, roc-toolkit & blueman for debian/ubuntu
 - [jikamens/IMAPReceivedDate](https://github.com/jikamens/IMAPReceivedDate) - Thunderbird "IMAP Received Date" extension
 - [ungoogled-software/ungoogled-chromium-debian](https://github.com/ungoogled-software/ungoogled-chromium-debian) - Debian, Ubuntu, and others packaging for ungoogled-chromium
@@ -1125,6 +1124,8 @@
 
 ## Nix 
 
+- [dtgagnon/nix-config](https://github.com/dtgagnon/nix-config) - My personal portable, extensible, NixOS configuration.
+- [nix-community/preservation](https://github.com/nix-community/preservation) - Nix tooling to enable declarative management of non-volatile system state. [maintainer=@WilliButz]
 - [vincentbernat/caddy-nix](https://github.com/vincentbernat/caddy-nix) - Build Caddy with additional plugins with Nix
 - [Lassulus/vars](https://github.com/Lassulus/vars) - 
 - [viperML/nix-maid](https://github.com/viperML/nix-maid) - Systemd + Nix dotfile management
@@ -1981,6 +1982,7 @@
 - [garritfra/positive_hackernews](https://github.com/garritfra/positive_hackernews) - The Positive Hacker News RSS Feed! 🌟
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
+- [jonlabelle/docker-network-tools](https://github.com/jonlabelle/docker-network-tools) - A Docker image with various network tools pre-installed.
 - [thorstenMueller/Thorsten-Voice](https://github.com/thorstenMueller/Thorsten-Voice) - Thorsten-Voice: A free to use, offline working, high quality german TTS voice should be available for every project without any license struggling.
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
@@ -2134,6 +2136,7 @@
 
 ## Rust 
 
+- [cafkafk/rime](https://github.com/cafkafk/rime) - Nix Flake Input Versioning
 - [qitechgmbh/control](https://github.com/qitechgmbh/control) - 
 - [uncenter/nixpkgs-track](https://github.com/uncenter/nixpkgs-track) - 📦 Track where Nixpkgs pull requests have reached.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
