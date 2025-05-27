@@ -327,7 +327,7 @@
 - [urbandroid-team/dont-kill-my-app](https://github.com/urbandroid-team/dont-kill-my-app) - Android vendors, don't kill my app!
 - [wordpress-mobile/WordPress-Android](https://github.com/wordpress-mobile/WordPress-Android) - WordPress for Android
 - [wallabag/android-app](https://github.com/wallabag/android-app) - Android application to read your articles saved in your wallabag. You can also easily add new articles.
-- [bitwarden/android](https://github.com/bitwarden/android) - Bitwarden mobile app for Android.
+- [bitwarden/android](https://github.com/bitwarden/android) - Bitwarden mobile apps (Password Manager and Authenticator) for Android.
 - [bernaferrari/ChangeDetection](https://github.com/bernaferrari/ChangeDetection) - Automatically track websites changes on Android in background.
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
@@ -1825,7 +1825,7 @@
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [banasiak/MuzeiSaver](https://github.com/banasiak/MuzeiSaver) - A super simple way to save the currently displayed Muzei wallpaper image to a file.
-- [bitwarden/android](https://github.com/bitwarden/android) - Bitwarden mobile app for Android.
+- [bitwarden/android](https://github.com/bitwarden/android) - Bitwarden mobile apps (Password Manager and Authenticator) for Android.
 - [bernaferrari/ChangeDetection](https://github.com/bernaferrari/ChangeDetection) - Automatically track websites changes on Android in background.
 - [klinker24/talon-for-twitter-android](https://github.com/klinker24/talon-for-twitter-android) - The most powerful and beautiful Twitter client available.
 - [openhab/openhab-android](https://github.com/openhab/openhab-android) - openHAB client for Android
