@@ -96,6 +96,7 @@
 
 ## C 
 
+- [alexjp/env-dedup](https://github.com/alexjp/env-dedup) - Deduplicate the environment variables values
 - [zen-kernel/zen-kernel](https://github.com/zen-kernel/zen-kernel) - Zen Patched Kernel Sources
 - [libfuse/sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers
 - [ColinIanKing/stress-ng](https://github.com/ColinIanKing/stress-ng) - This is the stress-ng upstream project git repository.  stress-ng will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer a
@@ -1125,6 +1126,8 @@
 
 ## Nix 
 
+- [Niols/nixos-config](https://github.com/Niols/nixos-config) - Niols's NixOS configuration/s
+- [roberth/nixops4-quick-intro](https://github.com/roberth/nixops4-quick-intro) - "mirror" of https://git.fediversity.eu/roberth/nixops4-quick-intro
 - [dtgagnon/nix-config](https://github.com/dtgagnon/nix-config) - My personal portable, extensible, NixOS configuration.
 - [nix-community/preservation](https://github.com/nix-community/preservation) - Nix tooling to enable declarative management of non-volatile system state. [maintainer=@WilliButz]
 - [vincentbernat/caddy-nix](https://github.com/vincentbernat/caddy-nix) - Build Caddy with additional plugins with Nix
