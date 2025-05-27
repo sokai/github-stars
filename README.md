@@ -714,7 +714,7 @@
 - [fluorjs/fluor](https://github.com/fluorjs/fluor) - Sprinkle interactivity on your design
 - [mkoryak/floatThead](https://github.com/mkoryak/floatThead) - Fixed &lt;thead&gt;. Doesn't need any custom css/html. Does what position:sticky can't
 - [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals) - Essential metrics for a healthy site.
-- [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - Complete open source web conferencing system.
+- [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - A complete web conferencing system for virtual classes and more!
 - [duckduckgo/tracker-radar](https://github.com/duckduckgo/tracker-radar) - Data set of top third party web domains with rich metadata about them
 - [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
 - [nextcloud/impersonate](https://github.com/nextcloud/impersonate) - 👻 Allow administrators to become a different user
