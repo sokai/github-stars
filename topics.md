@@ -2329,6 +2329,9 @@
 
 ## others 
 
+- [alexjp/env-dedup](https://github.com/alexjp/env-dedup) - Deduplicate the environment variables values
+- [Niols/nixos-config](https://github.com/Niols/nixos-config) - Niols's NixOS configuration/s
+- [roberth/nixops4-quick-intro](https://github.com/roberth/nixops4-quick-intro) - "mirror" of https://git.fediversity.eu/roberth/nixops4-quick-intro
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
 - [dtgagnon/nix-config](https://github.com/dtgagnon/nix-config) - My personal portable, extensible, NixOS configuration.
 - [nix-community/preservation](https://github.com/nix-community/preservation) - Nix tooling to enable declarative management of non-volatile system state. [maintainer=@WilliButz]
