@@ -1126,6 +1126,9 @@
 
 ## Nix 
 
+- [fricklerhandwerk/module-interfaces](https://github.com/fricklerhandwerk/module-interfaces) - 
+- [ibizaman/selfhostblocks](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
+- [ibizaman/skarabox](https://github.com/ibizaman/skarabox) - Opinionated and simplified headless NixOS installer.
 - [Niols/nixos-config](https://github.com/Niols/nixos-config) - Niols's NixOS configuration/s
 - [roberth/nixops4-quick-intro](https://github.com/roberth/nixops4-quick-intro) - "mirror" of https://git.fediversity.eu/roberth/nixops4-quick-intro
 - [dtgagnon/nix-config](https://github.com/dtgagnon/nix-config) - My personal portable, extensible, NixOS configuration.
