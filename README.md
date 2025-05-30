@@ -1126,6 +1126,7 @@
 
 ## Nix 
 
+- [SandWoodJones/gravelOS](https://github.com/SandWoodJones/gravelOS) - Personal NixOS config
 - [fricklerhandwerk/module-interfaces](https://github.com/fricklerhandwerk/module-interfaces) - 
 - [ibizaman/selfhostblocks](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
 - [ibizaman/skarabox](https://github.com/ibizaman/skarabox) - Opinionated and simplified headless NixOS installer.
