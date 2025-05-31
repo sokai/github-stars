@@ -1091,7 +1091,7 @@
 ## font 
 
 - [marella/material-design-icons](https://github.com/marella/material-design-icons) - Latest icon fonts and optimized SVGs for material design icons.
-- [slavfox/Cozette](https://github.com/slavfox/Cozette) - A bitmap programming font optimized for coziness 💜
+- [the-moonwitch/Cozette](https://github.com/the-moonwitch/Cozette) - A bitmap programming font optimized for coziness 💜
 - [delinx/Fixedsys-Core](https://github.com/delinx/Fixedsys-Core) - Fixedsys Core is a love letter to the 'Fixedsys Excelsior' font, an attempt to reinvent the feel and look of a truly unique font for modern high-resolution displays.
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
