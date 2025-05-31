@@ -1127,6 +1127,7 @@
 
 ## Nix 
 
+- [0x5a4/nix-easyroam](https://github.com/0x5a4/nix-easyroam) - A NixOS Module for setting up easyroam
 - [SandWoodJones/gravelOS](https://github.com/SandWoodJones/gravelOS) - Personal NixOS config
 - [fricklerhandwerk/module-interfaces](https://github.com/fricklerhandwerk/module-interfaces) - 
 - [ibizaman/selfhostblocks](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
@@ -2146,6 +2147,7 @@
 
 ## Rust 
 
+- [misuzu/eyd](https://github.com/misuzu/eyd) - Erase your darlings, but without filesystems tricks
 - [cafkafk/rime](https://github.com/cafkafk/rime) - Nix Flake Input Versioning
 - [qitechgmbh/control](https://github.com/qitechgmbh/control) - 
 - [uncenter/nixpkgs-track](https://github.com/uncenter/nixpkgs-track) - 📦 Track where Nixpkgs pull requests have reached.
