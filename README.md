@@ -96,6 +96,7 @@
 
 ## C 
 
+- [jezek2/fixbrowser](https://github.com/jezek2/fixbrowser) - FixBrowser is a lightweight web browser created from scratch.
 - [adrianlopezroche/fdupes](https://github.com/adrianlopezroche/fdupes) - FDUPES is a program for identifying or deleting duplicate files residing within specified directories.
 - [alexjp/env-dedup](https://github.com/alexjp/env-dedup) - Deduplicate the environment variables values
 - [zen-kernel/zen-kernel](https://github.com/zen-kernel/zen-kernel) - Zen Patched Kernel Sources
@@ -1129,6 +1130,7 @@
 
 ## Nix 
 
+- [edolstra/flake-compat](https://github.com/edolstra/flake-compat) - 
 - [0x5a4/nix-easyroam](https://github.com/0x5a4/nix-easyroam) - A NixOS Module for setting up easyroam
 - [SandWoodJones/gravelOS](https://github.com/SandWoodJones/gravelOS) - Personal NixOS config
 - [fricklerhandwerk/module-interfaces](https://github.com/fricklerhandwerk/module-interfaces) - 
@@ -2152,6 +2154,7 @@
 
 ## Rust 
 
+- [Magic-JD/is-fast](https://github.com/Magic-JD/is-fast) - Check the internet as fast as possible
 - [misuzu/eyd](https://github.com/misuzu/eyd) - Erase your darlings, but without filesystems tricks
 - [cafkafk/rime](https://github.com/cafkafk/rime) - Nix Flake Input Versioning
 - [qitechgmbh/control](https://github.com/qitechgmbh/control) - 
