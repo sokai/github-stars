@@ -2308,7 +2308,6 @@
 - [dominiksalvet/gim](https://github.com/dominiksalvet/gim) - Simple installation manager for your Git projects.
 - [nextcloud/richdocuments](https://github.com/nextcloud/richdocuments) - 📑 Collabora Online for Nextcloud
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
-- [vanillaforums/community](https://github.com/vanillaforums/community) - Code powering the Vanilla Forums open source community.
 - [jacobwb/hashover-next](https://github.com/jacobwb/hashover-next) - This branch will be HashOver 2.0
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
@@ -3034,6 +3033,7 @@
 - [aidanlister/jquery-stickytabs](https://github.com/aidanlister/jquery-stickytabs) - Provides persistant state (back and forward button support) for Bootstrap tabs
 - [rNeomy/clean-uninstall](https://github.com/rNeomy/clean-uninstall) - Remove addons fingerprints upon uninstall in Firefox browser
 - [julianshapiro/velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation.
+- [vanillaforums/community](https://github.com/vanillaforums/community) - Code powering the Vanilla Forums open source community.
 - [Openpalm/strophe-omemo](https://github.com/Openpalm/strophe-omemo) - 
 - [vanhoefm/krackattacks-scripts](https://github.com/vanhoefm/krackattacks-scripts) - 
 - [devio/Walruss](https://github.com/devio/Walruss) - PC-Wahl 10 Hacking Tools
