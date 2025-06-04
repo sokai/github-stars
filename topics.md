@@ -2331,6 +2331,7 @@
 
 ## others 
 
+- [feel-co/hjem](https://github.com/feel-co/hjem) - Streamlined, elegant $HOME management with Nix
 - [omegazeng/run-mariabackup](https://github.com/omegazeng/run-mariabackup) - Script to create full/incremental backups with mariabackup. Compress with xbstream.
 - [alifattahi/mariadb-backup-manager](https://github.com/alifattahi/mariadb-backup-manager) - 
 - [edolstra/flake-compat](https://github.com/edolstra/flake-compat) - 
