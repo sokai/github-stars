@@ -1134,6 +1134,7 @@
 
 ## Nix 
 
+- [ratson/conflake](https://github.com/ratson/conflake) - Conflake Config Flakes!
 - [getchoo/borealis](https://github.com/getchoo/borealis) - 🚢 my dotfiles, nix configurations, and personal infra
 - [tgirlcloud/easy-hosts](https://github.com/tgirlcloud/easy-hosts) - a flake module to ease creating and managing multiple hosts in your nix flake.
 - [viicslen/nixos](https://github.com/viicslen/nixos) - 
