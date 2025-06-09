@@ -1134,6 +1134,7 @@
 
 ## Nix 
 
+- [Sveske-Juice/declarative-jellyfin](https://github.com/Sveske-Juice/declarative-jellyfin) - Nix flake to configure jellyfin declaratively
 - [feel-co/hjem](https://github.com/feel-co/hjem) - Streamlined, elegant $HOME management with Nix
 - [edolstra/flake-compat](https://github.com/edolstra/flake-compat) - 
 - [0x5a4/nix-easyroam](https://github.com/0x5a4/nix-easyroam) - A NixOS Module for setting up easyroam
