@@ -1399,6 +1399,7 @@
 
 ## PHP 
 
+- [jeremykendall/php-domain-parser](https://github.com/jeremykendall/php-domain-parser) - Public Suffix List based domain parsing implemented in PHP
 - [RTAinJapan/rta-in-japan-twitter-api](https://github.com/RTAinJapan/rta-in-japan-twitter-api) - 
 - [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
 - [verdigado/organization_folders](https://github.com/verdigado/organization_folders) - 
