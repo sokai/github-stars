@@ -618,6 +618,7 @@
 
 ## JavaScript 
 
+- [bludit/bludit](https://github.com/bludit/bludit) - Simple, Fast, Secure, Flat-File CMS
 - [andia89/order-icons](https://github.com/andia89/order-icons) - Gnome Shell extension for ordering icons in the top bar like for Ubuntu unity
 - [allotropia/nextcloud_files_libreoffice_edit](https://github.com/allotropia/nextcloud_files_libreoffice_edit) - Nextcloud App to edit files directly with LibreOffice (via WebDav)
 - [mechtifs/wiggle](https://github.com/mechtifs/wiggle) - Gnome extension that magnifies the cursor when the mouse is moved rapidly.
