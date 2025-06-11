@@ -2246,6 +2246,7 @@
 
 ## Shell 
 
+- [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
 - [dreamfactorysoftware/dreamfactory](https://github.com/dreamfactorysoftware/dreamfactory) - DreamFactory API Generation Platform - API Wrapper for SQL Server, Snowflake, MySQL, and more!
 - [omegazeng/run-mariabackup](https://github.com/omegazeng/run-mariabackup) - Script to create full/incremental backups with mariabackup. Compress with xbstream.
 - [alifattahi/mariadb-backup-manager](https://github.com/alifattahi/mariadb-backup-manager) - 
