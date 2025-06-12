@@ -469,7 +469,7 @@
 - [lipis/flag-icons](https://github.com/lipis/flag-icons) - :flags: A curated collection of all country flags in SVG — plus the CSS for easier integration
 - [davidstutz/bootstrap-multiselect](https://github.com/davidstutz/bootstrap-multiselect) - JQuery multiselect plugin based on Twitter Bootstrap.
 - [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
-- [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template
+- [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 5 Admin Dashboard Template
 - [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software
 - [sunra/php-simple-html-dom-parser](https://github.com/sunra/php-simple-html-dom-parser) - PHP Simple HTML DOM Parser adaptation for Composer and PSR-0
 - [cheeaun/life](https://github.com/cheeaun/life) - Life - a timeline of important events in my life
@@ -1399,6 +1399,8 @@
 
 ## PHP 
 
+- [lkrms/pretty-php](https://github.com/lkrms/pretty-php) - The opinionated PHP code formatter
+- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
 - [jeremykendall/php-domain-parser](https://github.com/jeremykendall/php-domain-parser) - Public Suffix List based domain parsing implemented in PHP
 - [RTAinJapan/rta-in-japan-twitter-api](https://github.com/RTAinJapan/rta-in-japan-twitter-api) - 
 - [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
