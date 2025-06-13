@@ -2174,6 +2174,7 @@
 
 ## Rust 
 
+- [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [Magic-JD/is-fast](https://github.com/Magic-JD/is-fast) - Check the internet as fast as possible
 - [misuzu/eyd](https://github.com/misuzu/eyd) - Erase your darlings, but without filesystems tricks
 - [cafkafk/rime](https://github.com/cafkafk/rime) - Nix Flake Input Versioning
