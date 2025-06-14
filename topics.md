@@ -2353,6 +2353,7 @@
 
 ## others 
 
+- [fonttools/region-flags](https://github.com/fonttools/region-flags) - Collection of flags for BCP 47 region codes in SVG / PNG
 - [citizenspring/openletter](https://github.com/citizenspring/openletter) - Create an open letter and get people to sign it
 - [ProjectInitiative/dotfiles](https://github.com/ProjectInitiative/dotfiles) - personal nix config declaratively defining my homelab
 - [gregtwallace/certwarden](https://github.com/gregtwallace/certwarden) - Cert Warden is a centralized ACME Client. It provides an API for certificate consumers to fetch their individual keys and certs with API keys.
