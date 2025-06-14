@@ -289,6 +289,7 @@
 
 ## Dockerfile 
 
+- [gregtwallace/certwarden](https://github.com/gregtwallace/certwarden) - Cert Warden is a centralized ACME Client. It provides an API for certificate consumers to fetch their individual keys and certs with API keys.
 - [PeterDaveHello/ipinfo.tw](https://github.com/PeterDaveHello/ipinfo.tw) - 🐳 A self-host  🙅 non-tracking, AD-🆓 ➕ 🍪-🆓 solution to show your IP ℹ️ Super small (🤏10MB)
 - [glemsom/hassio-netbird](https://github.com/glemsom/hassio-netbird) - Home Assistant Netbird Client Addon
 - [VictoriaMetrics-Community/homeassistant-addon-victoriametrics](https://github.com/VictoriaMetrics-Community/homeassistant-addon-victoriametrics) - VictoriaMetrics Add-on for Home Assistant OS is the perfect solution for long term data storage of your smart home sensor data and visualization with Grafana.
@@ -619,6 +620,7 @@
 
 ## JavaScript 
 
+- [citizenspring/openletter](https://github.com/citizenspring/openletter) - Create an open letter and get people to sign it
 - [bludit/bludit](https://github.com/bludit/bludit) - Simple, Fast, Secure, Flat-File CMS
 - [andia89/order-icons](https://github.com/andia89/order-icons) - Gnome Shell extension for ordering icons in the top bar like for Ubuntu unity
 - [mechtifs/wiggle](https://github.com/mechtifs/wiggle) - Gnome extension that magnifies the cursor when the mouse is moved rapidly.
@@ -1138,6 +1140,7 @@
 
 ## Nix 
 
+- [ProjectInitiative/dotfiles](https://github.com/ProjectInitiative/dotfiles) - personal nix config declaratively defining my homelab
 - [ratson/conflake](https://github.com/ratson/conflake) - Conflake Config Flakes!
 - [getchoo/borealis](https://github.com/getchoo/borealis) - 🚢 my dotfiles, nix configurations, and personal infra
 - [tgirlcloud/easy-hosts](https://github.com/tgirlcloud/easy-hosts) - a flake module to ease creating and managing multiple hosts in your nix flake.
