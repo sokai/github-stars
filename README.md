@@ -417,6 +417,7 @@
 
 ## HTML 
 
+- [fonttools/region-flags](https://github.com/fonttools/region-flags) - Collection of flags for BCP 47 region codes in SVG / PNG
 - [SorkinType/Merriweather](https://github.com/SorkinType/Merriweather) - Merriweather is a serif typeface. It is offered in Variable font format and static formats ( OTF, TTF WOFF etc).
 - [qwd/Icons](https://github.com/qwd/Icons) - 和风天气开源图标字体库 Open source weather icons && fonts for QWeather
 - [basmilius/weather-icons](https://github.com/basmilius/weather-icons) - Free to use animated weather icons.
