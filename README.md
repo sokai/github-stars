@@ -1154,7 +1154,7 @@
 - [edolstra/flake-compat](https://github.com/edolstra/flake-compat) - 
 - [0x5a4/nix-easyroam](https://github.com/0x5a4/nix-easyroam) - A NixOS Module for setting up easyroam
 - [SandWoodJones/gravelOS](https://github.com/SandWoodJones/gravelOS) - Personal NixOS config
-- [fricklerhandwerk/module-interfaces](https://github.com/fricklerhandwerk/module-interfaces) - 
+- [fricklerhandwerk/module-interfaces](https://github.com/fricklerhandwerk/module-interfaces) - A notion of function types and function application for the module system
 - [ibizaman/selfhostblocks](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
 - [ibizaman/skarabox](https://github.com/ibizaman/skarabox) - Opinionated and simplified headless NixOS installer.
 - [Niols/nixos-config](https://github.com/Niols/nixos-config) - Niols's NixOS configuration/s
