@@ -3567,6 +3567,7 @@
 
 ## package-manager 
 
+- [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [woile/npt](https://github.com/woile/npt) - Nix Package Tool. A (humble) successor to linux's apt, which makes life easier when using nix as a package manager.
 - [hiqdev/asset-packagist](https://github.com/hiqdev/asset-packagist) - Asset Packagist
