@@ -1582,7 +1582,7 @@
 - [ZContent/icalendar](https://github.com/ZContent/icalendar) - Library for reading and writing iCalendar files in PHP
 - [orukusaki/JabberBot](https://github.com/orukusaki/JabberBot) - A Chatbot written in PHP for use over XMPP networks
 - [rubo77/php-mysql-fix](https://github.com/rubo77/php-mysql-fix) - A php include that replaces all mysql functions with the corresponding mysqli functions
-- [centreon/centreon-archived](https://github.com/centreon/centreon-archived) - Centreon is a network, system and application monitoring tool. Centreon is the only AIOps Platform Providing Holistic Visibility to Complex IT Workflows from Cloud to Edge.
+- [centreon-archive/centreon-archived](https://github.com/centreon-archive/centreon-archived) - Centreon is a network, system and application monitoring tool. Centreon is the only AIOps Platform Providing Holistic Visibility to Complex IT Workflows from Cloud to Edge.
 - [89jgoldberg/Scrappy](https://github.com/89jgoldberg/Scrappy) - Barebones PHP Scraper for bypassing CORS
 - [amphp/amp](https://github.com/amphp/amp) - A non-blocking concurrency framework for PHP applications. 🐘
 - [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
