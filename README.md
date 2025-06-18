@@ -149,7 +149,6 @@
 
 - [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) - Offical FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [Juve45/batstat](https://github.com/Juve45/batstat) - CLI battery status for linux
 - [raboof/nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
 - [fenrus75/powertop](https://github.com/fenrus75/powertop) - The Linux PowerTOP tool  -- please post patches to the mailing list instead of using github pull requests
@@ -169,7 +168,7 @@
 - [JoseExposito/touchegg](https://github.com/JoseExposito/touchegg) - Linux multi-touch gesture recognizer
 - [tbnobody/OpenDTU](https://github.com/tbnobody/OpenDTU) - Software for ESP32 to talk to Hoymiles/TSUN/Solenso Inverters
 - [Zygo/bees](https://github.com/Zygo/bees) - Best-Effort Extent-Same, a btrfs dedupe agent
-- [BrowserWorks/Waterfox](https://github.com/BrowserWorks/Waterfox) - The official Waterfox 💧 source code repository
+- [BrowserWorks/waterfox](https://github.com/BrowserWorks/waterfox) - The official Waterfox 💧 source code repository
 - [ckiee/logiops](https://github.com/ckiee/logiops) - An unofficial userspace driver for HID++ Logitech devices
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [berthubert/googerteller](https://github.com/berthubert/googerteller) - audible feedback on just how much your browsing feeds into google
@@ -1037,6 +1036,7 @@
 
 ## Kotlin 
 
+- [Jojo4GH/nav](https://github.com/Jojo4GH/nav) - The interactive and intuitive replacement for ls & cd!
 - [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
 - [home-assistant/android](https://github.com/home-assistant/android) - Home Assistant Companion for Android
 - [TJYSunset/Phocid](https://github.com/TJYSunset/Phocid) - A modern offline music player with familiar designs for Android 11+.
