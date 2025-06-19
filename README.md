@@ -1235,7 +1235,6 @@
 - [delroth/infra.delroth.net](https://github.com/delroth/infra.delroth.net) - NixOS configuration for *.delroth.net personal server infrastructure
 - [kradalby/dotfiles](https://github.com/kradalby/dotfiles) - monorepo for everything in my tech life.
 - [pcboy/nix-glab-runner](https://github.com/pcboy/nix-glab-runner) - Nix flake for easy setup of gitlab-runners on GCP
-- [nixbuild/nix-quick-install-action](https://github.com/nixbuild/nix-quick-install-action) - 
 - [tweag/nix-hour](https://github.com/tweag/nix-hour) - Questions for the weekly Nix Hour
 - [alles-wg/stork-nix](https://github.com/alles-wg/stork-nix) - 
 - [nrbray/nixos-configuration](https://github.com/nrbray/nixos-configuration) - 
@@ -2284,6 +2283,7 @@
 - [NixOS/org](https://github.com/NixOS/org) - Organisational documentation
 - [PhrozenByte/rmtrash](https://github.com/PhrozenByte/rmtrash) - Put files (and directories) in trash using the `trash-put` command in a way that is, otherwise as `trash-put` itself, compatible to GNUs `rm` and `rmdir`
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
+- [nixbuild/nix-quick-install-action](https://github.com/nixbuild/nix-quick-install-action) - 
 - [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
 - [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy
 - [picons/picons](https://github.com/picons/picons) - High quality tv & radio logos for your channels, also known as picons.
