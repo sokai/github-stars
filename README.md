@@ -1147,6 +1147,7 @@
 
 ## Nix 
 
+- [vic/dennix](https://github.com/vic/dennix) - Dendritic Nix - Community-driven Nix distribution based on the Dendritic pattern.
 - [ProjectInitiative/dotfiles](https://github.com/ProjectInitiative/dotfiles) - personal nix config declaratively defining my homelab
 - [ratson/conflake](https://github.com/ratson/conflake) - Conflake Config Flakes!
 - [getchoo/borealis](https://github.com/getchoo/borealis) - 🚢 my dotfiles, nix configurations, and personal infra
