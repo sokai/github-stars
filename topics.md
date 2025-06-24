@@ -2375,6 +2375,7 @@
 
 ## others 
 
+- [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
 - [vic/dennix](https://github.com/vic/dennix) - Dendritic Nix - Community-driven Nix distribution based on the Dendritic pattern.
 - [ArtifexSoftware/mupdf](https://github.com/ArtifexSoftware/mupdf) - mupdf mirror
 - [voiceroy/mupdf-android-viewer](https://github.com/voiceroy/mupdf-android-viewer) - Android SDK: viewer
