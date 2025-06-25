@@ -1444,7 +1444,7 @@
 - [fufroma/smartsieve](https://github.com/fufroma/smartsieve) - Unofficial github repository of Smartsieve
 - [Automattic/wordpress-activitypub](https://github.com/Automattic/wordpress-activitypub) - ActivityPub for WordPress
 - [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) - 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
-- [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - The PHP framework that gets out of your way  🌊
+- [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - The PHP framework that gets out of your way
 - [BoidCMS/BoidCMS](https://github.com/BoidCMS/BoidCMS) - Flat file CMS for building simple websites and blogs
 - [CollaboraOnline/richdocumentscode](https://github.com/CollaboraOnline/richdocumentscode) - Built-in CODE Server app
 - [akirk/enable-mastodon-apps](https://github.com/akirk/enable-mastodon-apps) - Allow accessing your WordPress blog with Mastodon clients
