@@ -339,7 +339,7 @@
 - [bernaferrari/ChangeDetection](https://github.com/bernaferrari/ChangeDetection) - Change Detection - Automatically track websites changes on Android in background.
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
-- [javacafe01/PdfViewer](https://github.com/javacafe01/PdfViewer) - A simple Pdf document viewer 💼
+- [chxpdev/PdfViewer](https://github.com/chxpdev/PdfViewer) - A simple Pdf document viewer 💼
 - [owntracks/android](https://github.com/owntracks/android) - OwnTracks Android App
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [dakhnod/Meshenger](https://github.com/dakhnod/Meshenger) - open source, P2P messenger without centralized server that works in a local network.
@@ -3250,7 +3250,7 @@
 - [oklai/koala](https://github.com/oklai/koala) - Koala is a GUI application for less, sass and coffeescript compilation, to help web developers to the development more efficient.
 - [jsoares/ttrss-plugin-feedstatistics](https://github.com/jsoares/ttrss-plugin-feedstatistics) - Simple feed statistics for Tiny Tiny RSS
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
-- [almende/vis](https://github.com/almende/vis) - ⚠️ This project is not maintained anymore! Please go to https://github.com/visjs
+- [visjs/vis](https://github.com/visjs/vis) - ⚠️ This project is not maintained anymore! Please go to https://github.com/visjs
 - [GerHobbelt/nicejson-php](https://github.com/GerHobbelt/nicejson-php) - A function to format JSON nicely with PHP.
 - [kschiffer/fhp-vorlesungsvz-reader](https://github.com/kschiffer/fhp-vorlesungsvz-reader) - 
 - [pfefferle/.editorconfigs](https://github.com/pfefferle/.editorconfigs) - A list of .editorconfig files, optimized for several projects
