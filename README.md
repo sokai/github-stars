@@ -584,7 +584,7 @@
 - [WebCuratorTool/webcurator-v2-legacy](https://github.com/WebCuratorTool/webcurator-v2-legacy) - The Web Curator Tool is a tool for managing the selective web harvesting process. (moved from SourceForge). https://webcurator.slack.com https://webcuratortool.readthedocs.io
 - [wallabag/android-app](https://github.com/wallabag/android-app) - Android application to read your articles saved in your wallabag. You can also easily add new articles.
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
-- [javacafe01/PdfViewer](https://github.com/javacafe01/PdfViewer) - A simple Pdf document viewer 💼
+- [chxpdev/PdfViewer](https://github.com/chxpdev/PdfViewer) - A simple Pdf document viewer 💼
 - [jverein/jverein](https://github.com/jverein/jverein) - JVerein - Open Source Vereinsverwaltung
 - [DSpace-Labs/SAFBuilder](https://github.com/DSpace-Labs/SAFBuilder) - Builds a Simple Archive Format package from files and a spreadsheet
 - [apilayer/restcountries](https://github.com/apilayer/restcountries) - Get information about countries via a RESTful API
@@ -879,7 +879,7 @@
 - [tscanlin/tocbot](https://github.com/tscanlin/tocbot) - Build a table of contents from headings in an HTML document.
 - [LeaVerou/awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies.
 - [oklai/koala](https://github.com/oklai/koala) - Koala is a GUI application for less, sass and coffeescript compilation, to help web developers to the development more efficient.
-- [almende/vis](https://github.com/almende/vis) - ⚠️ This project is not maintained anymore! Please go to https://github.com/visjs
+- [visjs/vis](https://github.com/visjs/vis) - ⚠️ This project is not maintained anymore! Please go to https://github.com/visjs
 - [kschiffer/fhp-vorlesungsvz-reader](https://github.com/kschiffer/fhp-vorlesungsvz-reader) - 
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
 - [jsfiddle/togetherjs](https://github.com/jsfiddle/togetherjs) - A service for your website that makes it surprisingly easy to collaborate in real-time.
