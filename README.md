@@ -555,7 +555,6 @@
 - [BlackyHawky/Clock](https://github.com/BlackyHawky/Clock) - Customizable and privacy-conscious open-source clock, based on AOSP Clock
 - [SecUSo/privacy-friendly-solitaire](https://github.com/SecUSo/privacy-friendly-solitaire) - Privacy Friendly App to play Solitaire.
 - [devlinx9/muon-ssh](https://github.com/devlinx9/muon-ssh) - Graphical SFTP client and terminal emulator (SSH) with helpful utilities
-- [Catfriend1/syncthing-android-fdroid](https://github.com/Catfriend1/syncthing-android-fdroid) - Syncthing-Fork - A Syncthing Wrapper for Android. F-Droid release channel. DO NOT USE except for builds. Refer to https://github.com/Catfriend1/syncthing-android if you'd like to issue PR.
 - [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 - [schemacrawler/SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - Free database schema discovery and comprehension tool
 - [whyorean/AuroraDroid](https://github.com/whyorean/AuroraDroid) - An unofficial, FOSS client for F-Droid.
