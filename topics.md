@@ -2773,7 +2773,6 @@
 - [Limych/hassio-addons](https://github.com/Limych/hassio-addons) - 
 - [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) - Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
 - [ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Allows you easily scan for and delete scam comments using several methods.
-- [Catfriend1/syncthing-android-fdroid](https://github.com/Catfriend1/syncthing-android-fdroid) - Syncthing-Fork - A Syncthing Wrapper for Android. F-Droid release channel. DO NOT USE except for builds. Refer to https://github.com/Catfriend1/syncthing-android if you'd like to issue PR.
 - [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 - [OpenParliamentTV/OpenParliamentTV-Platform](https://github.com/OpenParliamentTV/OpenParliamentTV-Platform) - 
 - [Philipp15b/php-i18n](https://github.com/Philipp15b/php-i18n) - Simple i18n class for PHP with caching and and ini, json and yaml support
