@@ -2602,7 +2602,7 @@
 - [ahmmedrejowan/DeviceInfo](https://github.com/ahmmedrejowan/DeviceInfo) - Device Info - Hardware, Sensor, Software
 - [zacharee/MastodonRedirect](https://github.com/zacharee/MastodonRedirect) - Deep linking proxy for Mastodon and Lemmy on Android, allowing you to launch your selected client automatically.
 - [Helium314/HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard
-- [NullCode1337/GlideLib](https://github.com/NullCode1337/GlideLib) - Install the libraries required for Glide Typing, systemlessly
+- [NullCode1337/GlideLib](https://github.com/NullCode1337/GlideLib) - Install the libraries required for Swipe typing on Android, systemlessly
 - [eu-digital-identity-wallet/eudi-app-android-wallet-ui](https://github.com/eu-digital-identity-wallet/eudi-app-android-wallet-ui) - EUDI Wallet Prototype
 - [infinisil/sanix](https://github.com/infinisil/sanix) - Sane stable stateless NixOS setup
 - [save-nix-together/open-letter](https://github.com/save-nix-together/open-letter) - an open letter to the NixOS foundation
