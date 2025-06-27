@@ -2291,7 +2291,7 @@
 - [akrabat/uuid7](https://github.com/akrabat/uuid7) - UUID v7 command line tool
 - [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
 - [dustinkirkland/hollywood](https://github.com/dustinkirkland/hollywood) - 
-- [NullCode1337/GlideLib](https://github.com/NullCode1337/GlideLib) - Install the libraries required for Glide Typing, systemlessly
+- [NullCode1337/GlideLib](https://github.com/NullCode1337/GlideLib) - Install the libraries required for Swipe typing on Android, systemlessly
 - [NixOS/org](https://github.com/NixOS/org) - Organisational documentation
 - [PhrozenByte/rmtrash](https://github.com/PhrozenByte/rmtrash) - Put files (and directories) in trash using the `trash-put` command in a way that is, otherwise as `trash-put` itself, compatible to GNUs `rm` and `rmdir`
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
