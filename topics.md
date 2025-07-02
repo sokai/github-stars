@@ -2387,6 +2387,7 @@
 
 ## others 
 
+- [FiloSottile/captive-browser](https://github.com/FiloSottile/captive-browser) - A dedicated Chrome instance to log into captive portals without messing with DNS settings.
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [HSZemi/t90official.de](https://github.com/HSZemi/t90official.de) - t90official.de
 - [SiegeEngineers/aoe2techtree](https://github.com/SiegeEngineers/aoe2techtree) - Age of Empires II Tech Tree
