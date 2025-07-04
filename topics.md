@@ -365,6 +365,8 @@
 
 ## angular 
 
+- [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
+- [ag-grid/ag-charts](https://github.com/ag-grid/ag-charts) - AG Charts is a fully-featured and highly customizable JavaScript charting library. The professional choice for developers building enterprise applications
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
@@ -777,6 +779,7 @@
 
 ## data 
 
+- [ag-grid/ag-charts](https://github.com/ag-grid/ag-charts) - AG Charts is a fully-featured and highly customizable JavaScript charting library. The professional choice for developers building enterprise applications
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [Quartz/bad-data-guide](https://github.com/Quartz/bad-data-guide) - An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.
@@ -1134,6 +1137,7 @@
 
 ## framework 
 
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [dreamfactorysoftware/dreamfactory](https://github.com/dreamfactorysoftware/dreamfactory) - DreamFactory API Generation Platform - API Wrapper for SQL Server, Snowflake, MySQL, and more!
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [tempestphp/tempest-app](https://github.com/tempestphp/tempest-app) - Project scaffold for Tempest, the PHP framework that gets out of your way.
@@ -1311,6 +1315,8 @@
 
 ## hacktoberfest 
 
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
+- [asbiin/laravel-webauthn](https://github.com/asbiin/laravel-webauthn) - Webauthn adapter for Laravel
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [LibreSign/libresign](https://github.com/LibreSign/libresign) - ✍️ Nextcloud app to sign PDF documents
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
@@ -1666,6 +1672,7 @@
 
 ## javascript 
 
+- [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
@@ -1902,6 +1909,9 @@
 
 ## laravel 
 
+- [fumeapp/laranuxt](https://github.com/fumeapp/laranuxt) - Laravel and Nuxt.js boilerplate
+- [asbiin/laravel-webauthn](https://github.com/asbiin/laravel-webauthn) - Webauthn adapter for Laravel
+- [laradashboard/laradashboard](https://github.com/laradashboard/laradashboard) - ⚡ Lara Dashboard - CMS By Laravel (7.x - 12.x) - Manages Users, Roles, Permissions, Modules, Settings, Translations, Monitoring and every actions of your Laravel application. A complete solution for L
 - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
 - [dreamfactorysoftware/dreamfactory](https://github.com/dreamfactorysoftware/dreamfactory) - DreamFactory API Generation Platform - API Wrapper for SQL Server, Snowflake, MySQL, and more!
 - [cachethq/core](https://github.com/cachethq/core) - 🚦 The core for Cachet, the open-source, self-hosted status page system.
@@ -1945,6 +1955,7 @@
 
 ## library 
 
+- [asbiin/laravel-webauthn](https://github.com/asbiin/laravel-webauthn) - Webauthn adapter for Laravel
 - [azuyalabs/yasumi](https://github.com/azuyalabs/yasumi) - The easy PHP Library for calculating holidays
 - [meyfa/php-svg](https://github.com/meyfa/php-svg) - Vector graphics (SVG) library for PHP
 - [json-api-php/json-api](https://github.com/json-api-php/json-api) - Implementation of JSON API in PHP
@@ -2258,6 +2269,7 @@
 
 ## nextjs 
 
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
@@ -2280,6 +2292,7 @@
 
 ## node 
 
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [eclipse-streamsheets/streamsheets](https://github.com/eclipse-streamsheets/streamsheets) - An open-source tool for processing stream data using a spreadsheet-like interface.
@@ -2387,6 +2400,7 @@
 
 ## others 
 
+- [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit) - 
 - [FiloSottile/captive-browser](https://github.com/FiloSottile/captive-browser) - A dedicated Chrome instance to log into captive portals without messing with DNS settings.
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [HSZemi/t90official.de](https://github.com/HSZemi/t90official.de) - t90official.de
@@ -3633,6 +3647,7 @@
 
 ## php 
 
+- [asbiin/laravel-webauthn](https://github.com/asbiin/laravel-webauthn) - Webauthn adapter for Laravel
 - [LibreSign/libresign](https://github.com/LibreSign/libresign) - ✍️ Nextcloud app to sign PDF documents
 - [lkrms/pretty-php](https://github.com/lkrms/pretty-php) - The opinionated PHP code formatter
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
@@ -4032,6 +4047,10 @@
 
 ## react 
 
+- [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
+- [ag-grid/ag-charts](https://github.com/ag-grid/ag-charts) - AG Charts is a fully-featured and highly customizable JavaScript charting library. The professional choice for developers building enterprise applications
+- [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
 - [hmellor/auction-website](https://github.com/hmellor/auction-website) - An open-source auction hosting system
@@ -4070,6 +4089,8 @@
 
 ## reactjs 
 
+- [ag-grid/ag-charts](https://github.com/ag-grid/ag-charts) - AG Charts is a fully-featured and highly customizable JavaScript charting library. The professional choice for developers building enterprise applications
+- [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 - [prolinkinfo/RealEstateCRM](https://github.com/prolinkinfo/RealEstateCRM) - RealEstate CRM: Empowering Real Estate Agents with Modern CRM Tools
@@ -4361,6 +4382,7 @@
 
 ## svelte 
 
+- [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
 - [gka/palettes](https://github.com/gka/palettes) - A tool for creating nice, percerptually correct and colorblind-safe color palettes.
 
@@ -4396,6 +4418,9 @@
 
 ## tailwindcss 
 
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+- [fumeapp/laranuxt](https://github.com/fumeapp/laranuxt) - Laravel and Nuxt.js boilerplate
+- [laradashboard/laradashboard](https://github.com/laradashboard/laradashboard) - ⚡ Lara Dashboard - CMS By Laravel (7.x - 12.x) - Manages Users, Roles, Permissions, Modules, Settings, Translations, Monitoring and every actions of your Laravel application. A complete solution for L
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
 - [origranot/reduced.to](https://github.com/origranot/reduced.to) - Free Modern URL Reducer. Make sure to share love by giving it a star.🌟 Have a great day!
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
@@ -4472,6 +4497,7 @@
 
 ## typescript 
 
+- [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
@@ -4514,6 +4540,8 @@
 
 ## ui 
 
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+- [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
 - [robinparisi/tingle](https://github.com/robinparisi/tingle) - ⚡ 2kB vanilla modal plugin, no dependencies and easy-to-use
 - [coreui/coreui-free-laravel-admin-template](https://github.com/coreui/coreui-free-laravel-admin-template) - CoreUI Free Laravel Bootstrap Admin Template
 - [filp/whoops](https://github.com/filp/whoops) - PHP errors for cool kids
@@ -4567,6 +4595,11 @@
 
 ## vue 
 
+- [ag-grid/ag-charts](https://github.com/ag-grid/ag-charts) - AG Charts is a fully-featured and highly customizable JavaScript charting library. The professional choice for developers building enterprise applications
+- [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
+- [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue) - Vue port of shadcn-ui
+- [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [LibreSign/libresign](https://github.com/LibreSign/libresign) - ✍️ Nextcloud app to sign PDF documents
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [nextcloud/forms](https://github.com/nextcloud/forms) - 📝 Simple form & survey app for Nextcloud
@@ -4586,6 +4619,9 @@
 
 ## vuejs 
 
+- [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
+- [ag-grid/ag-charts](https://github.com/ag-grid/ag-charts) - AG Charts is a fully-featured and highly customizable JavaScript charting library. The professional choice for developers building enterprise applications
+- [fumeapp/laranuxt](https://github.com/fumeapp/laranuxt) - Laravel and Nuxt.js boilerplate
 - [LibreSign/libresign](https://github.com/LibreSign/libresign) - ✍️ Nextcloud app to sign PDF documents
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
