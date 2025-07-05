@@ -2403,6 +2403,7 @@
 
 ## others 
 
+- [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal
 - [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit) - 
 - [FiloSottile/captive-browser](https://github.com/FiloSottile/captive-browser) - A dedicated Chrome instance to log into captive portals without messing with DNS settings.
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
