@@ -2465,7 +2465,7 @@
 - [DefGuard/defguard](https://github.com/DefGuard/defguard) - Zero-Trust access management with true WireGuard® 2FA/MFA
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
 - [TriliumNext/Notes](https://github.com/TriliumNext/Notes) - Build your personal knowledge base with TriliumNext Notes
-- [thunderbird/send-suite](https://github.com/thunderbird/send-suite) - Send and share large files effortlessly with Thunderbird Send.
+- [thunderbird/send-suite](https://github.com/thunderbird/send-suite) - ⛔️ [DEPRECATED] Send moved to -&gt; https://github.com/thunderbird/tbpro-add-on
 - [defnull/fediwall](https://github.com/defnull/fediwall) - Social media wall for the Fediverse
 - [sozialhelden/a11yjson](https://github.com/sozialhelden/a11yjson) - A11yJSON: A standard to describe the accessibility of the physical world.
 - [simPod/GrafanaJsonDatasource](https://github.com/simPod/GrafanaJsonDatasource) - Grafana datasource to load JSON data over your arbitrary HTTP backend
