@@ -1415,6 +1415,9 @@
 
 ## PHP 
 
+- [alaouy/YouTube](https://github.com/alaouy/YouTube) - 🔥 Laravel PHP Facade/Wrapper for the Youtube Data API
+- [RobertWesner/youtube-playlist](https://github.com/RobertWesner/youtube-playlist) - 
+- [Jguevara82/YouTubePHP](https://github.com/Jguevara82/YouTubePHP) - A PHP implementation, trying to make an YouTube-like application
 - [fumeapp/laranuxt](https://github.com/fumeapp/laranuxt) - Laravel and Nuxt.js boilerplate
 - [asbiin/laravel-webauthn](https://github.com/asbiin/laravel-webauthn) - Webauthn adapter for Laravel
 - [kevquirk/journal](https://github.com/kevquirk/journal) - 
