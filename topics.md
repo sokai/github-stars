@@ -2501,7 +2501,7 @@
 - [fenrus75/powertop](https://github.com/fenrus75/powertop) - The Linux PowerTOP tool  -- please post patches to the mailing list instead of using github pull requests
 - [mrnossiom/dotfiles](https://github.com/mrnossiom/dotfiles) - Nix files that govern my computer and server software
 - [thunderbird/appointment](https://github.com/thunderbird/appointment) - Invite others to grab times on your calendar. Choose a date. Make appointments as easy as it gets.
-- [thunderbird/send-suite](https://github.com/thunderbird/send-suite) - Send and share large files effortlessly with Thunderbird Send.
+- [thunderbird/send-suite](https://github.com/thunderbird/send-suite) - ⛔️ [DEPRECATED] Send moved to -&gt; https://github.com/thunderbird/tbpro-add-on
 - [imincik/containerfile-nix](https://github.com/imincik/containerfile-nix) - Build Dockerfile / Containerfile with Nix
 - [jakehamilton/jakehamilton.dev](https://github.com/jakehamilton/jakehamilton.dev) - 
 - [janboddez/indieblocks](https://github.com/janboddez/indieblocks) - Use blocks, and, optionally, "short-form" post types to more easily "IndieWebify" your WordPress site.
