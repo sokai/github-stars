@@ -2204,6 +2204,7 @@
 
 ## Rust 
 
+- [dvdsk/microbin](https://github.com/dvdsk/microbin) - A tiny, self-contained, configurable paste bin and URL shortener written in Rust.
 - [oddlama/idmail](https://github.com/oddlama/idmail) - An email alias and account management interface for self-hosted mailservers
 - [pipelight/boulette](https://github.com/pipelight/boulette) - A terminal confirmation prompt that prevents you from accidentally damaging remote hosts.
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
