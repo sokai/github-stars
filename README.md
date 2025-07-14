@@ -564,7 +564,7 @@
 - [whyorean/AuroraDroid](https://github.com/whyorean/AuroraDroid) - An unofficial, FOSS client for F-Droid.
 - [littleyoda/hibiscus.depotviewer](https://github.com/littleyoda/hibiscus.depotviewer) - Depotviewer Plugin für Hibiscus
 - [faiteanu/JavaStockQuotes](https://github.com/faiteanu/JavaStockQuotes) - Java library for fetching historical stock quotes.
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Advanced player for set-top boxes and tvs running Android OS
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
 - [komoot/photon](https://github.com/komoot/photon) - an open source geocoder for openstreetmap data
 - [marq24/UUID0xFD6FTracer](https://github.com/marq24/UUID0xFD6FTracer) - Scan your current environment for devices running an app that make us of the ExposureNotification Service
 - [Piwigo/Piwigo-Android](https://github.com/Piwigo/Piwigo-Android) - Piwigo Native Android App
