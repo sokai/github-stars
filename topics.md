@@ -310,7 +310,7 @@
 - [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
 - [sk22/megalodon](https://github.com/sk22/megalodon) - Abandoned. Pink modification of the official Mastodon for Android app
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
-- [Droid-ify/client](https://github.com/Droid-ify/client) - F-Droid client with Material UI.
+- [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client
 - [tobyxdd/android-ota-payload-extractor](https://github.com/tobyxdd/android-ota-payload-extractor) - A fast & natively cross-platform Android OTA payload extractor written in Go
 - [m-i-n-a-r/randomix](https://github.com/m-i-n-a-r/randomix) - 🎲 An open source app to choose randomly between numbers, answers, options and so on
 - [patzly/grocy-android](https://github.com/patzly/grocy-android) - ERP beyond your fridge, now on your phone – An awesome companion app for Grocy
@@ -1392,7 +1392,6 @@
 - [jfcherng/php-diff](https://github.com/jfcherng/php-diff) - A comprehensive library for generating differences between two strings in multiple formats (unified, side by side HTML etc).
 - [voku/simple_html_dom](https://github.com/voku/simple_html_dom) - 📜 Modern Simple HTML DOM Parser for PHP
 - [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component to calculate estimated power consumption of lights and other appliances
-- [Droid-ify/client](https://github.com/Droid-ify/client) - F-Droid client with Material UI.
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [hiqdev/asset-packagist](https://github.com/hiqdev/asset-packagist) - Asset Packagist
@@ -1878,7 +1877,7 @@
 - [fibelatti/pinboard-kotlin](https://github.com/fibelatti/pinboard-kotlin) - Unofficial Android client for Pinboard and Linkding
 - [wireapp/wire-android](https://github.com/wireapp/wire-android) - 🤖 The new Wire client for Android
 - [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
-- [Droid-ify/client](https://github.com/Droid-ify/client) - F-Droid client with Material UI.
+- [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client
 - [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid) - Third-party native Jellyfin Android app
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
