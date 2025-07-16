@@ -560,7 +560,6 @@
 - [BlackyHawky/Clock](https://github.com/BlackyHawky/Clock) - Customizable and privacy-conscious open-source clock, based on AOSP Clock
 - [SecUSo/privacy-friendly-solitaire](https://github.com/SecUSo/privacy-friendly-solitaire) - Privacy Friendly App to play Solitaire.
 - [devlinx9/muon-ssh](https://github.com/devlinx9/muon-ssh) - Graphical SFTP client and terminal emulator (SSH) with helpful utilities
-- [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 - [schemacrawler/SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - Free database schema discovery and comprehension tool
 - [whyorean/AuroraDroid](https://github.com/whyorean/AuroraDroid) - An unofficial, FOSS client for F-Droid.
 - [littleyoda/hibiscus.depotviewer](https://github.com/littleyoda/hibiscus.depotviewer) - Depotviewer Plugin für Hibiscus
