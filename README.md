@@ -1153,6 +1153,8 @@
 
 ## Nix 
 
+- [jfly/snow](https://github.com/jfly/snow) - 
+- [vdbe/infra](https://github.com/vdbe/infra) - 
 - [gytis-ivaskevicius/flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - Use Nix flakes without any fluff.
 - [ShadowRZ/flakes](https://github.com/ShadowRZ/flakes) - Project Hanekokoro
 - [boffbowsh/nix-lancache](https://github.com/boffbowsh/nix-lancache) - A Flake for running LanCache.net on NixOS
