@@ -2414,6 +2414,8 @@
 
 ## others 
 
+- [jfly/snow](https://github.com/jfly/snow) - 
+- [vdbe/infra](https://github.com/vdbe/infra) - 
 - [gytis-ivaskevicius/flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - Use Nix flakes without any fluff.
 - [milieuim/vaultix](https://github.com/milieuim/vaultix) - Secret managing scheme for NixOS
 - [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) - Build Caddy with plugins
