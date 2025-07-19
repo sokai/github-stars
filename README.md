@@ -1275,7 +1275,7 @@
 - [astro/nix-openwrt-imagebuilder](https://github.com/astro/nix-openwrt-imagebuilder) - Build OpenWRT images in Nix derivations
 - [NotAShelf/nyx](https://github.com/NotAShelf/nyx) - My overengineered NixOS flake. Desktops, laptops, servers and everything else that can run an OS.
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) - Wimpy's NixOS, nix-darwin  & Home Manager Configurations ❄️
-- [zimbatm/dotfiles](https://github.com/zimbatm/dotfiles) - @zimbatm's dotfiles
+- [zimbatm/home](https://github.com/zimbatm/home) - @zimbatm's dotfiles
 - [luishfonseca/nixos-config](https://github.com/luishfonseca/nixos-config) - 
 - [Kranzes/nix-config](https://github.com/Kranzes/nix-config) - Nix configurations
 - [ymatsiuk/nixos-config](https://github.com/ymatsiuk/nixos-config) - Dell XPS 13 NixOS and home-manager configuration
