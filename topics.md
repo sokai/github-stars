@@ -34,6 +34,7 @@
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [clojure](#clojure)
+- [cms](#cms)
 - [code](#code)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
@@ -666,6 +667,34 @@
 ## clojure 
 
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
+
+## cms 
+
+- [laradashboard/laradashboard](https://github.com/laradashboard/laradashboard) - ⚡ Lara Dashboard - CMS By Laravel (7.x - 12.x) - Manages Users, Roles, Permissions, Modules, Settings, Translations, Monitoring and every actions of your Laravel application. A complete solution for L
+- [bludit/bludit](https://github.com/bludit/bludit) - Simple, Fast, Secure, Flat-File CMS
+- [Qloapps/QloApps](https://github.com/Qloapps/QloApps) - QloApps is a Free and Open-source hotel management and reservation system to take a hotel business online. QloApps offers a Property Management System (PMS), a Booking Engine, and an attractive Hotel 
+- [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+- [danpros/htmly](https://github.com/danpros/htmly) - Simple and fast databaseless PHP blogging platform, and Flat-File CMS
+- [WonderCMS/wondercms](https://github.com/WonderCMS/wondercms) - Fast and small flat file CMS (5 files). Built with PHP, JSON database.
+- [BoidCMS/BoidCMS](https://github.com/BoidCMS/BoidCMS) - Flat file CMS for building simple websites and blogs
+- [mecha-cms/mecha](https://github.com/mecha-cms/mecha) - Minimalist content management system.
+- [filamentphp/filament](https://github.com/filamentphp/filament) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
+- [marcantondahmen/automad](https://github.com/marcantondahmen/automad) - A flat-file content management system and template engine
+- [typemill/typemill](https://github.com/typemill/typemill) - Typemill is a flat-file CMS based on Markdown and designed for informational websites like documentation, manuals, and handbooks.
+- [Piwigo/Piwigo](https://github.com/Piwigo/Piwigo) - Manage your photos with Piwigo, a full featured open source photo gallery application for the web. Star us on Github! More than 200 plugins and themes available. Join us and contribute!
+- [skipperbent/simple-php-router](https://github.com/skipperbent/simple-php-router) - Simple, fast and yet powerful PHP router that is easy to get integrated and in any project. Heavily inspired by the way Laravel handles routing, with both simplicity and expand-ability in mind.
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
+- [flextype/flextype](https://github.com/flextype/flextype) - Modern Open Source Flat Files Content Management System.
+- [craftcms/cms](https://github.com/craftcms/cms) - Build bespoke content experiences with Craft.
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
+- [picocms/Pico](https://github.com/picocms/Pico) - Pico is a stupidly simple, blazing fast, flat file CMS.
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
+- [ParvulaCMS/parvula](https://github.com/ParvulaCMS/parvula) - A simple & flexible CMS generated from flat files with a complete RESTful API
+- [formtools/core](https://github.com/formtools/core) - The Form Tools Core.
+- [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
+- [andrey900/SlimCMS](https://github.com/andrey900/SlimCMS) - SlimCMS - lightweight CMS based on slim 3 framework
+- [idno/known](https://github.com/idno/known) - A social publishing platform.
+- [zenphoto/zenphoto](https://github.com/zenphoto/zenphoto) - The Zenphoto open-source gallery and CMS project
 
 ## code 
 
@@ -1329,6 +1358,7 @@
 
 ## hacktoberfest 
 
+- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
 - [niccokunzmann/open-web-calendar](https://github.com/niccokunzmann/open-web-calendar) - Embed a highly customizable web calendar into your website using ICal source links
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [asbiin/laravel-webauthn](https://github.com/asbiin/laravel-webauthn) - Webauthn adapter for Laravel
@@ -2418,6 +2448,10 @@
 
 ## others 
 
+- [restic/others](https://github.com/restic/others) - Exhaustive list of backup solutions for Linux
+- [ibizaman/nix-starter-configs-skarabox](https://github.com/ibizaman/nix-starter-configs-skarabox) - 
+- [3333juul/snowflake](https://github.com/3333juul/snowflake) - 
+- [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [nukdokplex/ncaa](https://github.com/nukdokplex/ncaa) - A collection of crap to make my hosts boot and some other prekoldesses
 - [mightyiam/dendritic](https://github.com/mightyiam/dendritic) - A Nix flake-parts usage pattern in which every Nix file is a flake-parts module
@@ -2838,7 +2872,6 @@
 - [mkaz/code-syntax-block](https://github.com/mkaz/code-syntax-block) - A WordPress plugin which extends Gutenberg adding color syntax highlighting to the code block.
 - [bobthecow/mustache.php](https://github.com/bobthecow/mustache.php) - A Mustache implementation in PHP.
 - [nachtfunke/basic-pattern-repository](https://github.com/nachtfunke/basic-pattern-repository) - Simple patterns for &lt;use&gt;. Just SVG - for your delight!
-- [marcantondahmen/automad](https://github.com/marcantondahmen/automad) - A flat-file content management system and template engine
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
 - [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
@@ -3307,7 +3340,6 @@
 - [pkp/ojs](https://github.com/pkp/ojs) - Open Journal Systems is open source software to manage scholarly journals.
 - [oscarotero/form-manager](https://github.com/oscarotero/form-manager) - PHP library to create and validate html forms
 - [php-gettext/Gettext](https://github.com/php-gettext/Gettext) - PHP library to collect and manipulate gettext (.po, .mo, .php, .json, etc)
-- [andrey900/SlimCMS](https://github.com/andrey900/SlimCMS) - SlimCMS - lightweight CMS based on slim 3 framework
 - [oklai/koala](https://github.com/oklai/koala) - Koala is a GUI application for less, sass and coffeescript compilation, to help web developers to the development more efficient.
 - [jsoares/ttrss-plugin-feedstatistics](https://github.com/jsoares/ttrss-plugin-feedstatistics) - Simple feed statistics for Tiny Tiny RSS
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
@@ -3329,7 +3361,6 @@
 - [xgarrido/org-book](https://github.com/xgarrido/org-book) - A repository & timeline of books read so far
 - [ffansbach/de-map](https://github.com/ffansbach/de-map) - 
 - [StilgarBF/nodelistexport](https://github.com/StilgarBF/nodelistexport) - JSON export of FF nodes for a map or something
-- [zenphoto/zenphoto](https://github.com/zenphoto/zenphoto) - The Zenphoto open-source gallery and CMS project
 - [Pikaday/Pikaday](https://github.com/Pikaday/Pikaday) - A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS
 - [jaysalvat/vegas](https://github.com/jaysalvat/vegas) - Vegas is a jQuery/Zepto plugin to add beautiful backgrounds and Slideshows to DOM elements.
 - [RobLoach/component-installer](https://github.com/RobLoach/component-installer) - Install Web Components through Composer
@@ -4168,6 +4199,7 @@
 
 ## rust 
 
+- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
 - [pipelight/boulette](https://github.com/pipelight/boulette) - A terminal confirmation prompt that prevents you from accidentally damaging remote hosts.
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [cafkafk/rime](https://github.com/cafkafk/rime) - Nix Flake Input Versioning
@@ -4320,7 +4352,7 @@
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [projectsend/projectsend](https://github.com/projectsend/projectsend) - ProjectSend is a free, open source software that lets you share files with your clients, focused on ease of use and privacy. It supports clients groups, system users roles, statistics, multiple langua
-- [chevereto/chevereto](https://github.com/chevereto/chevereto) - The mature, battle-tested, high-end self-hosted image and video hosting solution trusted since 2007. Build your own Flickr or Imgur-style media sharing platform with complete control over your content
+- [chevereto/chevereto](https://github.com/chevereto/chevereto) - The mature, battle-tested, high-end, OG self-hosted image and video hosting solution trusted since 2007. Build your own Flickr or Imgur-style media sharing platform with complete control over your con
 - [urlhum/UrlHum](https://github.com/urlhum/UrlHum) - The modern, privacy-aware URL Shortener built in PHP.
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 - [Forceu/barcodebuddy](https://github.com/Forceu/barcodebuddy) - Barcode system for Grocy
