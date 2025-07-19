@@ -2448,6 +2448,7 @@
 
 ## others 
 
+- [restic/rest-server](https://github.com/restic/rest-server) - Rest Server is a high performance HTTP server that implements restic's REST backend API.
 - [restic/others](https://github.com/restic/others) - Exhaustive list of backup solutions for Linux
 - [ibizaman/nix-starter-configs-skarabox](https://github.com/ibizaman/nix-starter-configs-skarabox) - 
 - [3333juul/snowflake](https://github.com/3333juul/snowflake) - 
