@@ -15,6 +15,7 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
+- [Common Lisp](#common-lisp)
 - [D](#d)
 - [DIGITAL Command Language](#digital-command-language)
 - [Dart](#dart)
@@ -265,6 +266,10 @@
 - [morrisjs/morris.js](https://github.com/morrisjs/morris.js) - Pretty time-series line graphs
 - [beautiful-docs/beautiful-docs](https://github.com/beautiful-docs/beautiful-docs) - A beautiful way to read documentation
 
+## Common Lisp 
+
+- [dimitri/pgloader](https://github.com/dimitri/pgloader) - Migrate to PostgreSQL in a single command!
+
 ## D 
 
 - [gnunn1/tilix](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3
@@ -320,6 +325,7 @@
 
 ## Go 
 
+- [water-sucks/optnix](https://github.com/water-sucks/optnix) - An options searcher for Nix module systems.
 - [restic/rest-server](https://github.com/restic/rest-server) - Rest Server is a high performance HTTP server that implements restic's REST backend API.
 - [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) - Build Caddy with plugins
 - [foks-proj/go-foks](https://github.com/foks-proj/go-foks) - Go implementation of FOKS -- client and server
@@ -2221,6 +2227,8 @@
 
 ## Rust 
 
+- [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform
+- [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
 - [milieuim/vaultix](https://github.com/milieuim/vaultix) - Secret managing scheme for NixOS
