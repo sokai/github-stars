@@ -1056,7 +1056,7 @@
 - [LeanderBB/you-have-mail](https://github.com/LeanderBB/you-have-mail) - Application to notify you if an email has arrived in your email Account
 - [protonpass/android-pass](https://github.com/protonpass/android-pass) - Android code for the Proton Pass application
 - [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
-- [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
+- [ReadYouApp/ReadYou](https://github.com/ReadYouApp/ReadYou) - An Android RSS reader presented in Material You style.
 - [mollyim/mollyim-android-unifiedpush](https://github.com/mollyim/mollyim-android-unifiedpush) - Molly with UnifiedPush support (Archived).
 - [OMGSoundboard/android-app](https://github.com/OMGSoundboard/android-app) - OMGSoundboard Android App
 - [tmo1/sms-ie](https://github.com/tmo1/sms-ie) - SMS Import / Export is a simple Android app that imports and exports SMS and MMS messages, call logs, and contacts from and to JSON / NDJSON files.
