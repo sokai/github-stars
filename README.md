@@ -433,6 +433,7 @@
 
 ## HTML 
 
+- [fzakaria/nix-http-binary-cache-api-spec](https://github.com/fzakaria/nix-http-binary-cache-api-spec) - An OpenAPI specification for a Nix HTTP Binary Cache
 - [Monogramm/autodiscover-email-settings](https://github.com/Monogramm/autodiscover-email-settings) - :whale: :wrench: Provides Autodiscover capabilities for IMAP/POP/SMTP/LDAP services on Microsoft Outlook/Apple Mail and Autoconfig capabilities for Thunderbird
 - [HSZemi/t90official.de](https://github.com/HSZemi/t90official.de) - t90official.de
 - [fonttools/region-flags](https://github.com/fonttools/region-flags) - Collection of flags for BCP 47 region codes in SVG / PNG
