@@ -3126,7 +3126,6 @@
 - [ecthros/uncaptcha2](https://github.com/ecthros/uncaptcha2) - defeating the latest version of ReCaptcha with 91% accuracy
 - [jverein/jverein](https://github.com/jverein/jverein) - JVerein - Open Source Vereinsverwaltung
 - [GoogleChrome/samples](https://github.com/GoogleChrome/samples) - A repo containing samples tied to new functionality in each release of Google Chrome.
-- [paradoxxxzero/gnome-shell-system-monitor-applet](https://github.com/paradoxxxzero/gnome-shell-system-monitor-applet) - Display system informations in gnome shell status bar, such as memory usage, cpu usage, network rates…
 - [jowave/vcard2to3](https://github.com/jowave/vcard2to3) - Convert vcards from version 2.1 to version 3.0
 - [phpList/phplist3](https://github.com/phpList/phplist3) - Fully functional Open Source email marketing manager for creating, sending, integrating, and analysing email campaigns and newsletters.
 - [fionera/engelsystem](https://github.com/fionera/engelsystem) - Shift planning system for chaos events.
