@@ -435,6 +435,7 @@
 
 ## HTML 
 
+- [WICG/private-network-access](https://github.com/WICG/private-network-access) - 
 - [fzakaria/nix-http-binary-cache-api-spec](https://github.com/fzakaria/nix-http-binary-cache-api-spec) - An OpenAPI specification for a Nix HTTP Binary Cache
 - [Monogramm/autodiscover-email-settings](https://github.com/Monogramm/autodiscover-email-settings) - :whale: :wrench: Provides Autodiscover capabilities for IMAP/POP/SMTP/LDAP services on Microsoft Outlook/Apple Mail and Autoconfig capabilities for Thunderbird
 - [HSZemi/t90official.de](https://github.com/HSZemi/t90official.de) - t90official.de
@@ -1148,7 +1149,6 @@
 - [jikamens/IMAPReceivedDate](https://github.com/jikamens/IMAPReceivedDate) - Thunderbird "IMAP Received Date" extension
 - [ungoogled-software/ungoogled-chromium-debian](https://github.com/ungoogled-software/ungoogled-chromium-debian) - Debian, Ubuntu, and others packaging for ungoogled-chromium
 - [paulvollmer/google-product-taxonomy-data](https://github.com/paulvollmer/google-product-taxonomy-data) - 
-- [UB-LMU/DataCite_BestPracticeGuide](https://github.com/UB-LMU/DataCite_BestPracticeGuide) - 
 - [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font) - Twitter Unicode emoji color OpenType-SVG font for Linux/MacOS/Windows
 - [hfs/trinkwasser-potsdam](https://github.com/hfs/trinkwasser-potsdam) - 
 - [LibreELEC/LibreELEC.tv](https://github.com/LibreELEC/LibreELEC.tv) - Just enough OS for KODI
@@ -1320,6 +1320,7 @@
 
 ## Others 
 
+- [httpie/desktop](https://github.com/httpie/desktop) - 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs.
 - [restic/others](https://github.com/restic/others) - Exhaustive list of backup solutions for Linux
 - [mightyiam/dendritic](https://github.com/mightyiam/dendritic) - A Nix flake-parts usage pattern in which every Nix file is a flake-parts module
 - [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report) - Report and track banking app compatibility with GrapheneOS, including which workarounds may be required.
@@ -1379,6 +1380,7 @@
 - [bkardell/auto-archive](https://github.com/bkardell/auto-archive) - 
 - [janusman/robot-user-agents](https://github.com/janusman/robot-user-agents) - List of known robot user agents.
 - [slacka/WoeUSB](https://github.com/slacka/WoeUSB) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
+- [UB-LMU/DataCite_BestPracticeGuide](https://github.com/UB-LMU/DataCite_BestPracticeGuide) - 
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [ItMayBeMe/nginx-jails-f2b](https://github.com/ItMayBeMe/nginx-jails-f2b) - A collection of my Fail2Ban jails.
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
