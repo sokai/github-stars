@@ -1338,6 +1338,7 @@
 
 ## golang 
 
+- [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution.
 - [corazawaf/coraza-caddy](https://github.com/corazawaf/coraza-caddy) - OWASP Coraza middleware for Caddy. It provides Web Application Firewall capabilities
 - [pouriyajamshidi/tcping](https://github.com/pouriyajamshidi/tcping) - Ping TCP ports using tcping. Inspired by Linux's ping utility. Written in Go
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
@@ -2495,6 +2496,8 @@
 
 ## others 
 
+- [daeuniverse/flake.nix](https://github.com/daeuniverse/flake.nix) - Nix flake for dae and daed
+- [daeuniverse/daed](https://github.com/daeuniverse/daed) - daed, a modern dashboard with dae.
 - [sitespeedio/onlinetest](https://github.com/sitespeedio/onlinetest) - Deploy your own version of sitespeed.io online.
 - [Gioni06/terminal.css](https://github.com/Gioni06/terminal.css) - Modern and minimalistic CSS framework for terminal enthusiasts
 - [ngi-nix/ngipkgs](https://github.com/ngi-nix/ngipkgs) - Nix packages and services for projects supported through the NGI program
