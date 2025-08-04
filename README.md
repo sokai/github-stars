@@ -325,6 +325,7 @@
 
 ## Go 
 
+- [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution.
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 - [jorgerojas26/lazysql](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool written in Go.
 - [water-sucks/optnix](https://github.com/water-sucks/optnix) - An options searcher for Nix module systems.
@@ -1170,6 +1171,7 @@
 
 ## Nix 
 
+- [daeuniverse/flake.nix](https://github.com/daeuniverse/flake.nix) - Nix flake for dae and daed
 - [ngi-nix/ngipkgs](https://github.com/ngi-nix/ngipkgs) - Nix packages and services for projects supported through the NGI program
 - [nilla-nix/nilla](https://github.com/nilla-nix/nilla) - Create Nilla projects that manage your packages, development shells, systems, and more!
 - [ibizaman/nix-starter-configs-skarabox](https://github.com/ibizaman/nix-starter-configs-skarabox) - 
@@ -2500,6 +2502,7 @@
 
 ## TypeScript 
 
+- [daeuniverse/daed](https://github.com/daeuniverse/daed) - daed, a modern dashboard with dae.
 - [jamdotdev/jam-dev-utilities](https://github.com/jamdotdev/jam-dev-utilities) - Lightweight utils set - fast and open-source. It's got cmd+k search & everything's client-side. No ads, your data stays local.
 - [javascriptdata/danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
