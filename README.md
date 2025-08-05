@@ -43,6 +43,7 @@
 - [Markdown](#markdown)
 - [NCL](#ncl)
 - [Nix](#nix)
+- [Nunjucks](#nunjucks)
 - [Objective-C](#objective-c)
 - [OpenSCAD](#openscad)
 - [Others](#others)
@@ -439,6 +440,7 @@
 
 ## HTML 
 
+- [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [Gioni06/terminal.css](https://github.com/Gioni06/terminal.css) - Modern and minimalistic CSS framework for terminal enthusiasts
 - [WICG/private-network-access](https://github.com/WICG/private-network-access) - 
@@ -1175,6 +1177,7 @@
 
 ## Nix 
 
+- [hgl/nixverse](https://github.com/hgl/nixverse) - Filesystem-based nix flake framework for multi-node configurations, cascading secrets management, parallel deployments, etc.
 - [daeuniverse/flake.nix](https://github.com/daeuniverse/flake.nix) - Nix flake for dae and daed
 - [ngi-nix/ngipkgs](https://github.com/ngi-nix/ngipkgs) - Nix packages and services for projects supported through the NGI program
 - [nilla-nix/nilla](https://github.com/nilla-nix/nilla) - Create Nilla projects that manage your packages, development shells, systems, and more!
@@ -1320,6 +1323,10 @@
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
 - [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=Lassulus Enzime iFreilicht Mic92 phaer]
 - [bqv/rc](https://github.com/bqv/rc) - Structured system configuration (I moved from NixOS to GuixSD)
+
+## Nunjucks 
+
+- [5t3ph/smolcss](https://github.com/5t3ph/smolcss) - Minimal snippets for modern CSS layouts and components
 
 ## Objective-C 
 
