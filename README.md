@@ -372,6 +372,7 @@
 - [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, Ghostarchive, IPFS, Telegr
 - [ory/hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless
 - [ory/kratos](https://github.com/ory/kratos) - Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, 
+- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [costela/wesher](https://github.com/costela/wesher) - wireguard overlay mesh network manager
 - [openrport/openrport](https://github.com/openrport/openrport) - Manage remote systems with ease. See more https://oss.openrport.io
@@ -684,7 +685,6 @@
 - [robchahin/sso-wall-of-shame](https://github.com/robchahin/sso-wall-of-shame) - A list of vendors that treat single sign-on as a luxury feature, not a core security requirement.
 - [lutangar/cities.json](https://github.com/lutangar/cities.json) - :cityscape: Cities of the world in Json, based on GeoNames Gazetteer
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [gnmyt/MySpeed](https://github.com/gnmyt/MySpeed) - A speed test analysis software that shows your internet speed for up to 30 days
 - [rstockm/mastowall](https://github.com/rstockm/mastowall) - Simple implementation of a Twitter-Wall like grid of postings from Mastodon
 - [basher/Web-UI-Boilerplate](https://github.com/basher/Web-UI-Boilerplate) - Accessible UI boilerplate for websites & web apps, using vanilla HTML/CSS/JavaScript and Web Components. Powered by Storybook. Bundled by Parcel.
