@@ -1428,6 +1428,7 @@
 
 ## hacktoberfest 
 
+- [OCA/pms](https://github.com/OCA/pms) - Property Management System on Odoo
 - [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
 - [niccokunzmann/open-web-calendar](https://github.com/niccokunzmann/open-web-calendar) - Embed a highly customizable web calendar into your website using ICal source links
@@ -2548,6 +2549,9 @@
 
 ## others 
 
+- [estao-immo/estao](https://github.com/estao-immo/estao) - estao® Immobilienlösung für Hausverwalter und Wohnungsunternehmen
+- [navariltd/utility-billing](https://github.com/navariltd/utility-billing) - The Utility Billing & Property Management App is a powerful addition to ERPNext, designed to streamline utility billing, property leasing, and tenant management. Ideal for municipal utilities, real es
+- [aakvatech/PropMS](https://github.com/aakvatech/PropMS) - 
 - [LinkSheet/nightly](https://github.com/LinkSheet/nightly) - LinkSheet Nightly Release Repository
 - [hgl/nixverse](https://github.com/hgl/nixverse) - Filesystem-based nix flake framework for multi-node configurations, cascading secrets management, parallel deployments, etc.
 - [henryclw/jsonhero-web](https://github.com/henryclw/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
@@ -4122,6 +4126,7 @@
 
 ## project-management 
 
+- [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [mimecorg/webissues](https://github.com/mimecorg/webissues) - WebIssues team collaboration system.
 - [kanboard/kanboard](https://github.com/kanboard/kanboard) - Kanban project management software
 - [Hasnayeen/invobook](https://github.com/Hasnayeen/invobook) - Self-hosted app for Time Tracking, Invoice Generation, Project & Client Management, built with Laravel & Filament.
@@ -4149,6 +4154,9 @@
 
 ## python 
 
+- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
+- [OCA/pms](https://github.com/OCA/pms) - Property Management System on Odoo
+- [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
@@ -4600,6 +4608,7 @@
 
 ## support 
 
+- [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system
 
 ## svelte 
