@@ -447,6 +447,7 @@
 
 ## HTML 
 
+- [OCA/pms](https://github.com/OCA/pms) - Property Management System on Odoo
 - [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
 - [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
@@ -1474,6 +1475,7 @@
 
 ## PHP 
 
+- [estao-immo/estao](https://github.com/estao-immo/estao) - estao® Immobilienlösung für Hausverwalter und Wohnungsunternehmen
 - [Power-Components/livewire-powergrid](https://github.com/Power-Components/livewire-powergrid) - ⚡ PowerGrid generates modern, powerful and easy-to-customize data tables using Laravel Livewire.
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [bryanhonof/webtech-compose](https://github.com/bryanhonof/webtech-compose) - 
@@ -2057,6 +2059,10 @@
 
 ## Python 
 
+- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
+- [navariltd/utility-billing](https://github.com/navariltd/utility-billing) - The Utility Billing & Property Management App is a powerful addition to ERPNext, designed to streamline utility billing, property leasing, and tenant management. Ideal for municipal utilities, real es
+- [aakvatech/PropMS](https://github.com/aakvatech/PropMS) - 
+- [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
