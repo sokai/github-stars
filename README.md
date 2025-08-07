@@ -1189,6 +1189,8 @@
 
 ## Nix 
 
+- [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs
+- [chris-kruining/sneeuwvlok](https://github.com/chris-kruining/sneeuwvlok) - 
 - [divnix/hive](https://github.com/divnix/hive) - The secretly open NixOS-Society
 - [divnix/std](https://github.com/divnix/std) - A DevOps framework for the SDLC with the power of Nix and Flakes. Good for keeping deadlines!
 - [hgl/nixverse](https://github.com/hgl/nixverse) - Filesystem-based nix flake framework for multi-node configurations, cascading secrets management, parallel deployments, etc.
