@@ -2551,6 +2551,7 @@
 
 ## others 
 
+- [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs
 - [chris-kruining/sneeuwvlok](https://github.com/chris-kruining/sneeuwvlok) - 
 - [divnix/hive](https://github.com/divnix/hive) - The secretly open NixOS-Society
