@@ -2281,6 +2281,7 @@
 
 ## Rust 
 
+- [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [emilpriver/geni](https://github.com/emilpriver/geni) - Standalone database migration tool which works for Postgres, MariaDB, MySQL, Sqlite and LibSQL(Turso).
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso Database is a project to build the next evolution of SQLite.
 - [cachix/secretspec](https://github.com/cachix/secretspec) - Declarative secrets, every environment, any provider.
