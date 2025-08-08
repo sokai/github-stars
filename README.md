@@ -334,6 +334,9 @@
 
 ## Go 
 
+- [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
+- [antonmedv/countdown](https://github.com/antonmedv/countdown) - Terminal countdown timer
 - [nezhahq/nezha](https://github.com/nezhahq/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O&M tool
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
@@ -1193,6 +1196,7 @@
 
 ## Nix 
 
+- [Akiiino/mollusca](https://github.com/Akiiino/mollusca) - My NixOS machine configurations
 - [arsfeld/nixos](https://github.com/arsfeld/nixos) - 
 - [blaggacao/frappix](https://github.com/blaggacao/frappix) - Frappe on Nix
 - [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs
@@ -1808,7 +1812,6 @@
 - [vanilla/addons](https://github.com/vanilla/addons) - Official add-ons and tools for Vanilla Forums.
 - [ParvulaCMS/parvula](https://github.com/ParvulaCMS/parvula) - A simple & flexible CMS generated from flat files with a complete RESTful API
 - [DirectoryLister/DirectoryLister](https://github.com/DirectoryLister/DirectoryLister) - 📂 Directory Lister is the easiest way to expose the contents of any web-accessible folder for browsing and sharing.
-- [vanillaforums/community](https://github.com/vanillaforums/community) - Code powering the Vanilla Forums open source community.
 - [shopware5/shopware](https://github.com/shopware5/shopware) - Shopware 5 core
 - [RainLoop/rainloop-webmail](https://github.com/RainLoop/rainloop-webmail) - Simple, modern & fast web-based email client
 - [potsky/PimpMyLog](https://github.com/potsky/PimpMyLog) - 🍭 Log viewer for your web server
@@ -2369,6 +2372,7 @@
 - [HimasRafeek/butterCake-Legacy](https://github.com/HimasRafeek/butterCake-Legacy) - Material Design Components, Responsive and Modern CSS Framework Built with Flexbox 🍰
 - [bascht/omemo-top](https://github.com/bascht/omemo-top) - Tracking the Progress of OMEMO Integration in various clients
 - [mastodon/documentation](https://github.com/mastodon/documentation) - Mastodon documentation
+- [vanillaforums/community](https://github.com/vanillaforums/community) - Code powering the Vanilla Forums open source community.
 - [okfn/opendatahandbook](https://github.com/okfn/opendatahandbook) - Open Data Handbook v2
 
 ## Sass 
