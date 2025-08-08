@@ -646,6 +646,8 @@
 
 ## cli 
 
+- [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
@@ -1085,6 +1087,7 @@
 
 ## dotfiles 
 
+- [Akiiino/mollusca](https://github.com/Akiiino/mollusca) - My NixOS machine configurations
 - [ehllie/dotfiles](https://github.com/ehllie/dotfiles) - Nix flake with my system configuration
 - [yunfachi/denix](https://github.com/yunfachi/denix) - Extensible Nix library for creating scalable NixOS, Home Manager, and Nix-Darwin configurations with modules, hosts, and rices
 - [hmajid2301/nixicle](https://github.com/hmajid2301/nixicle) - My dotfiles always changing 🙈
@@ -1968,6 +1971,7 @@
 
 ## json 
 
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [bludit/bludit](https://github.com/bludit/bludit) - Simple, Fast, Secure, Flat-File CMS
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
@@ -2574,6 +2578,7 @@
 
 ## others 
 
+- [antonmedv/countdown](https://github.com/antonmedv/countdown) - Terminal countdown timer
 - [arsfeld/nixos](https://github.com/arsfeld/nixos) - 
 - [blaggacao/frappix](https://github.com/blaggacao/frappix) - Frappe on Nix
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
@@ -4721,6 +4726,7 @@
 
 ## terminal 
 
+- [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [Jojo4GH/nav](https://github.com/Jojo4GH/nav) - The interactive and intuitive replacement for ls & cd!
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
