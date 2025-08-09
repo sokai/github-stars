@@ -1087,6 +1087,7 @@
 
 ## dotfiles 
 
+- [MatthiasBenaets/nix-config](https://github.com/MatthiasBenaets/nix-config) - My Personal Nix, NixOS and Nix-Darwin System Configuration Flake
 - [Akiiino/mollusca](https://github.com/Akiiino/mollusca) - My NixOS machine configurations
 - [ehllie/dotfiles](https://github.com/ehllie/dotfiles) - Nix flake with my system configuration
 - [yunfachi/denix](https://github.com/yunfachi/denix) - Extensible Nix library for creating scalable NixOS, Home Manager, and Nix-Darwin configurations with modules, hosts, and rices
@@ -2578,6 +2579,9 @@
 
 ## others 
 
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class.
+- [loophp/phptree](https://github.com/loophp/phptree) - An implementation of tree data structure
+- [michaelBelsanti/nixconfig](https://github.com/michaelBelsanti/nixconfig) - Mirrored from codeberg
 - [antonmedv/countdown](https://github.com/antonmedv/countdown) - Terminal countdown timer
 - [arsfeld/nixos](https://github.com/arsfeld/nixos) - 
 - [blaggacao/frappix](https://github.com/blaggacao/frappix) - Frappe on Nix
