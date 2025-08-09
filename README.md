@@ -1196,6 +1196,7 @@
 
 ## Nix 
 
+- [dd-ix/ixp-manager.nix](https://github.com/dd-ix/ixp-manager.nix) - 
 - [MatthiasBenaets/nix-config](https://github.com/MatthiasBenaets/nix-config) - My Personal Nix, NixOS and Nix-Darwin System Configuration Flake
 - [michaelBelsanti/nixconfig](https://github.com/michaelBelsanti/nixconfig) - Mirrored from codeberg
 - [Akiiino/mollusca](https://github.com/Akiiino/mollusca) - My NixOS machine configurations
@@ -1491,6 +1492,7 @@
 
 ## PHP 
 
+- [inex/IXP-Manager](https://github.com/inex/IXP-Manager) - Full stack web application powering peering at over 200 Internet Exchange Points (IXPs) globally.
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class.
 - [loophp/phptree](https://github.com/loophp/phptree) - An implementation of tree data structure
 - [estao-immo/estao](https://github.com/estao-immo/estao) - estao® Immobilienlösung für Hausverwalter und Wohnungsunternehmen
