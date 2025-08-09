@@ -1196,6 +1196,8 @@
 
 ## Nix 
 
+- [MatthiasBenaets/nix-config](https://github.com/MatthiasBenaets/nix-config) - My Personal Nix, NixOS and Nix-Darwin System Configuration Flake
+- [michaelBelsanti/nixconfig](https://github.com/michaelBelsanti/nixconfig) - Mirrored from codeberg
 - [Akiiino/mollusca](https://github.com/Akiiino/mollusca) - My NixOS machine configurations
 - [arsfeld/nixos](https://github.com/arsfeld/nixos) - 
 - [blaggacao/frappix](https://github.com/blaggacao/frappix) - Frappe on Nix
@@ -1489,6 +1491,8 @@
 
 ## PHP 
 
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class.
+- [loophp/phptree](https://github.com/loophp/phptree) - An implementation of tree data structure
 - [estao-immo/estao](https://github.com/estao-immo/estao) - estao® Immobilienlösung für Hausverwalter und Wohnungsunternehmen
 - [Power-Components/livewire-powergrid](https://github.com/Power-Components/livewire-powergrid) - ⚡ PowerGrid generates modern, powerful and easy-to-customize data tables using Laravel Livewire.
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
