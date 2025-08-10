@@ -666,7 +666,7 @@
 ## JavaScript 
 
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
-- [iquercorb/xows](https://github.com/iquercorb/xows) - Lightweight and modern XMPP over WebSocket Web client.
+- [iquercorb/xows](https://github.com/iquercorb/xows) - XMPP over WebSocket Web client
 - [sitespeedio/onlinetest](https://github.com/sitespeedio/onlinetest) - Deploy your own version of sitespeed.io online.
 - [sitespeedio/browsertime](https://github.com/sitespeedio/browsertime) - Measure and Optimize Web Performance
 - [SiegeEngineers/aoe2techtree](https://github.com/SiegeEngineers/aoe2techtree) - Age of Empires II Tech Tree
