@@ -2026,7 +2026,7 @@
 - [bueltge/de-DE](https://github.com/bueltge/de-DE) - Special German permalink sanitize
 - [tcpdf-clone/tcpdf](https://github.com/tcpdf-clone/tcpdf) - A simple clone of the TCPDF SourceForge repository
 - [alixaxel/phunction](https://github.com/alixaxel/phunction) - Small and carefully designed PHP 5.2+ HMVC framework.
-- [Wixel/GUMP](https://github.com/Wixel/GUMP) - A fast, extensible & stand-alone PHP input validation class that allows you to validate any data
+- [Wixel/GUMP](https://github.com/Wixel/GUMP) - A fast, flexible PHP validation class that works anywhere and validates any data.
 - [OleKEH/prairie-openid2-server](https://github.com/OleKEH/prairie-openid2-server) - furter development of the prairie openid server originally developed by barnraiser.com
 - [ushahidi/Sweeper_0.3.2](https://github.com/ushahidi/Sweeper_0.3.2) - [DEPRECATED] Intelligent media curation tool with filters for managing real-time feeds of information
 - [flourishlib/flourish-demo-site](https://github.com/flourishlib/flourish-demo-site) - This is a simple CMS-like application written using Flourish
