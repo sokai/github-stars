@@ -3779,7 +3779,6 @@
 - [cr/mkPirateBox](https://github.com/cr/mkPirateBox) - .ipk package that turns your mint OpenWRT into a PirateBox
 - [imakewebthings/waypoints](https://github.com/imakewebthings/waypoints) - Waypoints is a library that makes it easy to execute a function whenever you scroll to an element.
 - [jQueryGeo/geo](https://github.com/jQueryGeo/geo) - Small, fast & simple JavaScript mapping and geospatial API as a jQuery plugin
-- [Wixel/GUMP](https://github.com/Wixel/GUMP) - A fast, extensible & stand-alone PHP input validation class that allows you to validate any data
 - [OleKEH/prairie-openid2-server](https://github.com/OleKEH/prairie-openid2-server) - furter development of the prairie openid server originally developed by barnraiser.com
 - [adamwg/tracks-android](https://github.com/adamwg/tracks-android) - An Android Application for the popular Tracks todo list.  Available in the Android Market as "Tracks for Android".
 - [andyet/ConsoleDummy.js](https://github.com/andyet/ConsoleDummy.js) - Super lightweight solution that lets you leave `console` statements in your JS.
@@ -4091,6 +4090,7 @@
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
 - [flightphp/core](https://github.com/flightphp/core) - An extensible micro-framework for PHP
 - [alixaxel/phunction](https://github.com/alixaxel/phunction) - Small and carefully designed PHP 5.2+ HMVC framework.
+- [Wixel/GUMP](https://github.com/Wixel/GUMP) - A fast, flexible PHP validation class that works anywhere and validates any data.
 - [dryphp/bitcoin.php](https://github.com/dryphp/bitcoin.php) - Bitcoin library for PHP.
 - [mantisbt/mantisbt](https://github.com/mantisbt/mantisbt) - Mantis Bug Tracker (MantisBT)
 - [jwage/easy-csv](https://github.com/jwage/easy-csv) - EasyCSV is a simple Object Oriented CSV manipulation library for PHP 7.2+
