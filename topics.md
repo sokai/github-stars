@@ -4739,6 +4739,7 @@
 
 ## terminal 
 
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [Jojo4GH/nav](https://github.com/Jojo4GH/nav) - The interactive and intuitive replacement for ls & cd!
