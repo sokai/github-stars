@@ -2582,6 +2582,7 @@
 
 ## others 
 
+- [dafitt/schallernetz](https://github.com/dafitt/schallernetz) - My servers declared with NixOS
 - [caddy-dns/hetzner](https://github.com/caddy-dns/hetzner) - Caddy module: dns.providers.hetzner
 - [caddy-dns/desec](https://github.com/caddy-dns/desec) - deSEC module for Caddy
 - [Mop-u/nix-lancache](https://github.com/Mop-u/nix-lancache) - A Flake for running LanCache.net on NixOS
