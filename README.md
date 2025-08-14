@@ -286,6 +286,7 @@
 
 ## Dart 
 
+- [nextcloud/neon](https://github.com/nextcloud/neon) - A framework for building convergent cross-platform Nextcloud clients using Flutter.
 - [Yubico/yubioath-flutter](https://github.com/Yubico/yubioath-flutter) - Yubico Authenticator for Desktop (Windows, macOS and Linux) and Android
 - [FriesI23/mhabit](https://github.com/FriesI23/mhabit) - Our app helps you form and track micro habits with easy-to-use 📈 charts and tools, making it simple to establish healthy habits that stick 🌱. Start your personal growth journey today 🚀!
 - [deckerst/aves](https://github.com/deckerst/aves) - Aves is a gallery and metadata explorer app, built for Android with Flutter.
@@ -336,6 +337,7 @@
 
 ## Go 
 
+- [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [chiefnoah/go-foks](https://github.com/chiefnoah/go-foks) - Go implementation of FOKS -- client and server
 - [caddy-dns/hetzner](https://github.com/caddy-dns/hetzner) - Caddy module: dns.providers.hetzner
 - [caddy-dns/desec](https://github.com/caddy-dns/desec) - deSEC module for Caddy
@@ -673,6 +675,7 @@
 
 ## JavaScript 
 
+- [nextcloud/notes](https://github.com/nextcloud/notes) - ✎ Distraction-free notes and writing
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [iquercorb/xows](https://github.com/iquercorb/xows) - XMPP over WebSocket Web client
 - [sitespeedio/onlinetest](https://github.com/sitespeedio/onlinetest) - Deploy your own version of sitespeed.io online.
