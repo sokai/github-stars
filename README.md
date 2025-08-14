@@ -1090,6 +1090,7 @@
 
 ## Kotlin 
 
+- [anyproto/anytype-kotlin](https://github.com/anyproto/anytype-kotlin) - Official Anytype client for Android
 - [wgtunnel/wgtunnel](https://github.com/wgtunnel/wgtunnel) - A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling.
 - [opencloud-eu/android](https://github.com/opencloud-eu/android) - 🤖
 - [eu-digital-identity-wallet/eudi-lib-android-wallet-core](https://github.com/eu-digital-identity-wallet/eudi-lib-android-wallet-core) - 
@@ -1204,6 +1205,7 @@
 
 ## Nix 
 
+- [wellWINeo/nix-anysync](https://github.com/wellWINeo/nix-anysync) - Any-Sync NixOS flake
 - [dafitt/schallernetz](https://github.com/dafitt/schallernetz) - My servers declared with NixOS
 - [Mop-u/nix-lancache](https://github.com/Mop-u/nix-lancache) - A Flake for running LanCache.net on NixOS
 - [nixcloud/nixcloud-webservices](https://github.com/nixcloud/nixcloud-webservices) - This nixpkgs extension, called nixcloud-webservices, focuses on ease of deployment of web-related technologies.
@@ -2333,7 +2335,7 @@
 - [Magic-JD/is-fast](https://github.com/Magic-JD/is-fast) - Check the internet as fast as possible
 - [misuzu/eyd](https://github.com/misuzu/eyd) - Erase your darlings, but without filesystems tricks
 - [cafkafk/rime](https://github.com/cafkafk/rime) - Nix Flake Input Versioning
-- [qitechgmbh/control](https://github.com/qitechgmbh/control) - 
+- [qitechgmbh/control](https://github.com/qitechgmbh/control) - Next Generation Machine Intrface
 - [uncenter/nixpkgs-track](https://github.com/uncenter/nixpkgs-track) - 📦 Track where Nixpkgs pull requests have reached.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [TheAlexDev23/power-options](https://github.com/TheAlexDev23/power-options) - Most feature-complete Linux GUI power management solution.
@@ -2574,6 +2576,7 @@
 
 ## TypeScript 
 
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
