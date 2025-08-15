@@ -237,7 +237,6 @@
 - [windows](#windows)
 - [wordpress](#wordpress)
 - [xml](#xml)
-- [zsh](#zsh)
 
 ## ai 
 
@@ -3069,6 +3068,7 @@
 - [mkaz/code-syntax-block](https://github.com/mkaz/code-syntax-block) - A WordPress plugin which extends Gutenberg adding color syntax highlighting to the code block.
 - [bobthecow/mustache.php](https://github.com/bobthecow/mustache.php) - A Mustache implementation in PHP.
 - [nachtfunke/basic-pattern-repository](https://github.com/nachtfunke/basic-pattern-repository) - Simple patterns for &lt;use&gt;. Just SVG - for your delight!
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
 - [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
 - [mpphp/mpphp](https://github.com/mpphp/mpphp) - Micro Procedural PHP Framework
@@ -5111,19 +5111,6 @@
 - [substance/substance](https://github.com/substance/substance) - A JavaScript library for web-based content editing.
 - [jacobwb/hashover-next](https://github.com/jacobwb/hashover-next) - This branch will be HashOver 2.0
 - [mledoze/countries](https://github.com/mledoze/countries) - World countries in JSON, CSV, XML and Yaml. Any help is welcome!
-
-## zsh 
-
-- [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
-- [NotAShelf/nyx](https://github.com/NotAShelf/nyx) - My overengineered NixOS flake. Desktops, laptops, servers and everything else that can run an OS.
-- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
-- [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
-- [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
-- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated) - letsencrypt/acme client implemented as a shell-script – just add water
-- [xtaran/zshrc](https://github.com/xtaran/zshrc) - Axel's .zsh directory which is basically his .zshrc. Needs grml's zshrc via grml-etc-core as submodule.
 
 
 ## License
