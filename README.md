@@ -1209,6 +1209,7 @@
 
 ## Nix 
 
+- [mightyiam/infra](https://github.com/mightyiam/infra) - Shahar "Dawn" Or's Nix-powered "IT infrastructure" repository
 - [wellWINeo/nix-anysync](https://github.com/wellWINeo/nix-anysync) - Any-Sync NixOS flake
 - [dafitt/schallernetz](https://github.com/dafitt/schallernetz) - My servers declared with NixOS
 - [Mop-u/nix-lancache](https://github.com/Mop-u/nix-lancache) - A Flake for running LanCache.net on NixOS
