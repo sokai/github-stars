@@ -296,6 +296,7 @@
 - [home-assistant/android](https://github.com/home-assistant/android) - Home Assistant Companion for Android
 - [adeekshith/watomatic](https://github.com/adeekshith/watomatic) - Auto reply app to enable auto reply for messengers like WhatsApp and Facebook Messenger
 - [protonpass/android-pass](https://github.com/protonpass/android-pass) - Android code for the Proton Pass application
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube, NicoNico and BiliBili freely.
 - [namidaco/namida](https://github.com/namidaco/namida) - A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter
 - [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
@@ -1486,7 +1487,6 @@
 - [simPod/GrafanaJsonDatasource](https://github.com/simPod/GrafanaJsonDatasource) - Grafana datasource to load JSON data over your arbitrary HTTP backend
 - [JayBizzle/Crawler-Detect](https://github.com/JayBizzle/Crawler-Detect) - 🕷 CrawlerDetect is a PHP class for detecting bots/crawlers/spiders via the user agent
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
 - [GrahamCampbell/Laravel-GitHub](https://github.com/GrahamCampbell/Laravel-GitHub) - A GitHub API bridge for Laravel
 - [origranot/reduced.to](https://github.com/origranot/reduced.to) - Free Modern URL Reducer. Make sure to share love by giving it a star.🌟 Have a great day!
@@ -1773,6 +1773,7 @@
 ## ios 
 
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [monal-im/fpush](https://github.com/monal-im/fpush) - Scalable push server for XMPP
 - [Akylas/oss-weather](https://github.com/Akylas/oss-weather) - An OSS weather app for iOS/Android
 - [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS
@@ -2256,6 +2257,7 @@
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [pouriyajamshidi/tcping](https://github.com/pouriyajamshidi/tcping) - Ping TCP ports using tcping. Inspired by Linux's ping utility. Written in Go
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [monal-im/fpush](https://github.com/monal-im/fpush) - Scalable push server for XMPP
 - [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
 - [eh8/chenglab](https://github.com/eh8/chenglab) - a straightforward NixOS setup for my homelab and personal computers
@@ -2775,7 +2777,7 @@
 - [Koenkk/Z-Stack-firmware](https://github.com/Koenkk/Z-Stack-firmware) - Compilation instructions and hex files for Z-Stack firmwares
 - [gmodena/nix-flatpak](https://github.com/gmodena/nix-flatpak) - Install flatpaks declaratively
 - [brianshea2/addr.tools](https://github.com/brianshea2/addr.tools) - possibly useful tools for the Internet
-- [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud) - This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services.
+- [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud) - 🌤️This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services.
 - [open-condo-software/condo](https://github.com/open-condo-software/condo) - Condo is an Open Source property management SaaS that allows users to manage tickets, resident contacts, properties, payment tracking, create invoices, and oversee a service marketplace, all while off
 - [knadh/dns.toys](https://github.com/knadh/dns.toys) - A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc.
 - [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
@@ -5038,6 +5040,7 @@
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [pouriyajamshidi/tcping](https://github.com/pouriyajamshidi/tcping) - Ping TCP ports using tcping. Inspired by Linux's ping utility. Written in Go
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
 - [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) - Cross-platform library to fetch system information
