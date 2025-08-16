@@ -652,6 +652,7 @@
 
 ## cli 
 
+- [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
 - [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
